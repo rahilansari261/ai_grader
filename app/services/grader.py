@@ -156,7 +156,12 @@ IMPORTANT: The "isCorrect" field must be included and should reflect whether the
         result["isCorrect"] = False
     else:
         # Ensure it's a boolean (LLM might return it as string "true"/"false" or boolean)
-        result["isCorrect"] = bool(result["isCorrect"])
+        is_correct_value = result["isCorrect"]
+        if isinstance(is_correct_value, str):
+            # Handle string values explicitly - bool("false") would incorrectly return True
+            result["isCorrect"] = is_correct_value.lower() in ("true", "1", "yes")
+        else:
+            # For boolean or numeric values, use bool() conversion
+            result["isCorrect"] = bool(is_correct_value)
     
     return result
-
