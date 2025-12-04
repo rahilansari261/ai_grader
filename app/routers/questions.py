@@ -92,12 +92,15 @@ async def update_question(
             detail="Question not found"
         )
     
+    # Store old reference answer before updating
+    old_reference_answer = question.reference_answer
+    
     # Update fields
     question.text = question_data.text
     question.reference_answer = question_data.reference_answer
     
     # Regenerate embedding if reference answer changed
-    if question.reference_answer != question_data.reference_answer:
+    if old_reference_answer != question_data.reference_answer:
         question.embedding = await generate_embedding(question_data.reference_answer)
     
     await db.commit()
