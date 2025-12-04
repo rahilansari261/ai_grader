@@ -8,6 +8,7 @@ class QuestionCreate(BaseModel):
 
 class QuestionResponse(BaseModel):
     id: int
+    question_number: int | None = None
     text: str
     reference_answer: str
 

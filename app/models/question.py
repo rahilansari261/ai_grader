@@ -8,6 +8,7 @@ class Question(Base):
     __tablename__ = "questions"
 
     id = Column(Integer, primary_key=True, index=True)
+    question_number = Column(Integer, unique=True, nullable=True, index=True)
     text = Column(Text, nullable=False)
     reference_answer = Column(Text, nullable=False)
     embedding = Column(Vector(1536), nullable=True)
