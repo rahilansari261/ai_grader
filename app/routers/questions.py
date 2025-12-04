@@ -1,0 +1,130 @@
+from fastapi import APIRouter, Depends, HTTPException, status
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import select
+from typing import List
+from app.db import get_db
+from app.models.question import Question
+from app.models.rubric import Rubric
+from app.schemas.question_schemas import QuestionCreate, QuestionResponse, QuestionWithRubric
+from app.schemas.rubric_schemas import RubricResponse
+from app.services.embeddings import generate_embedding
+
+router = APIRouter(prefix="/questions", tags=["questions"])
+
+
+@router.post("/", response_model=QuestionResponse, status_code=status.HTTP_201_CREATED)
+async def create_question(
+    question_data: QuestionCreate,
+    db: AsyncSession = Depends(get_db)
+):
+    """Create a new question and generate embedding for reference answer"""
+    # Generate embedding for reference answer
+    embedding = await generate_embedding(question_data.reference_answer)
+    
+    # Create question
+    question = Question(
+        text=question_data.text,
+        reference_answer=question_data.reference_answer,
+        embedding=embedding
+    )
+    
+    db.add(question)
+    await db.commit()
+    await db.refresh(question)
+    
+    return question
+
+
+@router.get("/", response_model=List[QuestionResponse])
+async def list_questions(db: AsyncSession = Depends(get_db)):
+    """List all questions"""
+    result = await db.execute(select(Question))
+    questions = result.scalars().all()
+    return questions
+
+
+@router.get("/{question_id}", response_model=QuestionWithRubric)
+async def get_question(
+    question_id: int,
+    db: AsyncSession = Depends(get_db)
+):
+    """Get question with its rubrics"""
+    result = await db.execute(
+        select(Question).where(Question.id == question_id)
+    )
+    question = result.scalar_one_or_none()
+    
+    if not question:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Question not found"
+        )
+    
+    # Get rubrics
+    rubrics_result = await db.execute(
+        select(Rubric).where(Rubric.question_id == question_id)
+    )
+    rubrics = rubrics_result.scalars().all()
+    
+    return QuestionWithRubric(
+        id=question.id,
+        text=question.text,
+        reference_answer=question.reference_answer,
+        rubrics=[RubricResponse.model_validate(r) for r in rubrics]
+    )
+
+
+@router.put("/{question_id}", response_model=QuestionResponse)
+async def update_question(
+    question_id: int,
+    question_data: QuestionCreate,
+    db: AsyncSession = Depends(get_db)
+):
+    """Update a question"""
+    result = await db.execute(
+        select(Question).where(Question.id == question_id)
+    )
+    question = result.scalar_one_or_none()
+    
+    if not question:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Question not found"
+        )
+    
+    # Update fields
+    question.text = question_data.text
+    question.reference_answer = question_data.reference_answer
+    
+    # Regenerate embedding if reference answer changed
+    if question.reference_answer != question_data.reference_answer:
+        question.embedding = await generate_embedding(question_data.reference_answer)
+    
+    await db.commit()
+    await db.refresh(question)
+    
+    return question
+
+
+@router.delete("/{question_id}", status_code=status.HTTP_204_NO_CONTENT)
+async def delete_question(
+    question_id: int,
+    db: AsyncSession = Depends(get_db)
+):
+    """Delete a question"""
+    result = await db.execute(
+        select(Question).where(Question.id == question_id)
+    )
+    question = result.scalar_one_or_none()
+    
+    if not question:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Question not found"
+        )
+    
+    await db.delete(question)
+    await db.commit()
+    
+    return None
+
