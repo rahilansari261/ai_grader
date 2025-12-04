@@ -1,6 +1,4 @@
 from pydantic import BaseModel
-from typing import List, Optional
-from app.schemas.rubric_schemas import RubricResponse
 
 
 class QuestionCreate(BaseModel):
@@ -15,8 +13,4 @@ class QuestionResponse(BaseModel):
 
     class Config:
         from_attributes = True
-
-
-class QuestionWithRubric(QuestionResponse):
-    rubrics: List[RubricResponse] = []
 

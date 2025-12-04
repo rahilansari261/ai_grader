@@ -1,12 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
 from app.db import init_db
-from app.routers import questions, rubrics, answers
+from app.routers import questions, answers
 
 app = FastAPI(
     title="AI Answer Grading System",
     description="AI-powered answer grading with embeddings and LLM evaluation",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 # CORS configuration
@@ -20,7 +21,6 @@ app.add_middleware(
 
 # Include routers
 app.include_router(questions.router)
-app.include_router(rubrics.router)
 app.include_router(answers.router)
 
 
@@ -35,7 +35,7 @@ async def root():
     """Root endpoint"""
     return {
         "message": "AI Answer Grading System API",
-        "docs": "/docs"
+        "docs": "/docs",
     }
 
 

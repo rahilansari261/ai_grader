@@ -1,0 +1,5802 @@
+[
+    {
+      "text": "What is the capital of France?",
+      "reference_answer": "The capital of France is Paris.",
+      "category": "Geography"
+    },
+    {
+      "text": "Explain the process of photosynthesis.",
+      "reference_answer": "Photosynthesis is the process by which plants convert light energy into chemical energy (glucose).",
+      "category": "Science"
+    },
+    {
+      "text": "What is the Pythagorean theorem?",
+      "reference_answer": "In a right triangle, a² + b² = c².",
+      "category": "Math"
+    },
+    {
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "reference_answer": "The play was written by William Shakespeare.",
+      "category": "Literature"
+    },
+    {
+      "text": "What is the largest planet in the solar system?",
+      "reference_answer": "Jupiter is the largest planet in our solar system.",
+      "category": "Science"
+    },
+    {
+      "text": "Define velocity.",
+      "reference_answer": "Velocity is the rate of change of displacement with respect to time.",
+      "category": "Physics"
+    },
+    {
+      "text": "What is 12 × 9?",
+      "reference_answer": "12 multiplied by 9 equals 108.",
+      "category": "Math"
+    },
+    {
+      "text": "What is the longest river in the world?",
+      "reference_answer": "The Nile River is widely considered the longest river.",
+      "category": "Geography"
+    },
+    {
+      "text": "Who invented the telephone?",
+      "reference_answer": "Alexander Graham Bell invented the telephone.",
+      "category": "Technology"
+    },
+    {
+      "text": "What is Newton's First Law of Motion?",
+      "reference_answer": "An object remains at rest or in uniform motion unless acted upon by an external force.",
+      "category": "Physics"
+    },
+    {
+      "text": "What is the chemical formula of water?",
+      "reference_answer": "The chemical formula of water is H₂O.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "Who discovered penicillin?",
+      "reference_answer": "Penicillin was discovered by Alexander Fleming.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "reference_answer": "The capital of Japan is Tokyo.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is 45 + 55?",
+      "reference_answer": "45 + 55 = 100.",
+      "category": "Math"
+    },
+    {
+      "text": "Name the author of 'Pride and Prejudice'.",
+      "reference_answer": "'Pride and Prejudice' was written by Jane Austen.",
+      "category": "Literature"
+    },
+    {
+      "text": "What gas do plants absorb from the atmosphere?",
+      "reference_answer": "Plants absorb carbon dioxide (CO₂) from the atmosphere.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the boiling point of water?",
+      "reference_answer": "Water boils at 100°C at sea level.",
+      "category": "Science"
+    },
+    {
+      "text": "Who invented the light bulb?",
+      "reference_answer": "Thomas Edison is credited with inventing the practical light bulb.",
+      "category": "Technology"
+    },
+    {
+      "text": "What is democracy?",
+      "reference_answer": "Democracy is a government system where people elect representatives or vote directly.",
+      "category": "Civics"
+    },
+    {
+      "text": "Which is the largest ocean on Earth?",
+      "reference_answer": "The Pacific Ocean is the largest ocean.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is the law of demand?",
+      "reference_answer": "The law of demand states that as prices fall, demand increases, and vice versa.",
+      "category": "Economics"
+    },
+    {
+      "text": "What is the function of the heart?",
+      "reference_answer": "The heart pumps blood throughout the body.",
+      "category": "Biology"
+    },
+    {
+      "text": "What does HTTP stand for?",
+      "reference_answer": "HTTP stands for HyperText Transfer Protocol.",
+      "category": "Technology"
+    },
+    {
+      "text": "Who was the first President of the United States?",
+      "reference_answer": "George Washington was the first President.",
+      "category": "History"
+    },
+    {
+      "text": "What is the value of pi (π) to two decimals?",
+      "reference_answer": "π ≈ 3.14.",
+      "category": "Math"
+    },
+    {
+      "text": "Which organelle is the powerhouse of the cell?",
+      "reference_answer": "Mitochondria are the powerhouse of the cell.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the freezing point of water?",
+      "reference_answer": "0°C is the freezing point of water.",
+      "category": "Science"
+    },
+    {
+      "text": "Which continent has the largest population?",
+      "reference_answer": "Asia is the most populated continent.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is an atom?",
+      "reference_answer": "An atom is the smallest unit of an element.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "What is an adjective?",
+      "reference_answer": "An adjective describes a noun.",
+      "category": "English"
+    },
+    {
+      "text": "Who built the Taj Mahal?",
+      "reference_answer": "Shah Jahan commissioned the Taj Mahal.",
+      "category": "History"
+    },
+    {
+      "text": "What is the symbol for gold?",
+      "reference_answer": "Gold’s chemical symbol is Au.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "What is the speed of light?",
+      "reference_answer": "The speed of light is approximately 3 × 10⁸ m/s.",
+      "category": "Physics"
+    },
+    {
+      "text": "Who discovered gravity?",
+      "reference_answer": "Sir Isaac Newton discovered gravity.",
+      "category": "Science"
+    },
+    {
+      "text": "Which sport uses a shuttlecock?",
+      "reference_answer": "Badminton uses a shuttlecock.",
+      "category": "Sports"
+    },
+    {
+      "text": "What is the holy book of Islam?",
+      "reference_answer": "The holy book of Islam is the Quran.",
+      "category": "Religion"
+    },
+    {
+      "text": "What is the largest desert in the world?",
+      "reference_answer": "The Antarctic Desert is the largest desert.",
+      "category": "Geography"
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "reference_answer": "Leonardo da Vinci painted the Mona Lisa.",
+      "category": "Art"
+    },
+    {
+      "text": "What does GDP stand for?",
+      "reference_answer": "GDP stands for Gross Domestic Product.",
+      "category": "Economics"
+    },
+    {
+      "text": "What is the chemical formula of table salt?",
+      "reference_answer": "Table salt is NaCl.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "Which blood group is the universal donor?",
+      "reference_answer": "O negative is the universal donor.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the largest mammal?",
+      "reference_answer": "The blue whale is the largest mammal.",
+      "category": "Biology"
+    },
+    {
+      "text": "Who was the first man on the moon?",
+      "reference_answer": "Neil Armstrong was the first man on the moon.",
+      "category": "History"
+    },
+    {
+      "text": "What is the capital of Australia?",
+      "reference_answer": "Canberra is the capital of Australia.",
+      "category": "Geography"
+    },
+    {
+      "text": "What planet is known as the Red Planet?",
+      "reference_answer": "Mars is known as the Red Planet.",
+      "category": "Science"
+    },
+    {
+      "text": "What is 17 × 6?",
+      "reference_answer": "17 × 6 = 102.",
+      "category": "Math"
+    },
+    {
+      "text": "What is a noun?",
+      "reference_answer": "A noun is a naming word.",
+      "category": "English"
+    },
+    {
+      "text": "Who wrote '1984'?",
+      "reference_answer": "'1984' was written by George Orwell.",
+      "category": "Literature"
+    },
+    {
+      "text": "Which gas is essential for human respiration?",
+      "reference_answer": "Oxygen is essential for respiration.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the largest continent?",
+      "reference_answer": "Asia is the largest continent.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is Newton's Second Law?",
+      "reference_answer": "Newton's Second Law states F = ma.",
+      "category": "Physics"
+    },
+    {
+      "text": "What does CPU stand for?",
+      "reference_answer": "CPU stands for Central Processing Unit.",
+      "category": "Technology"
+    },
+    {
+      "text": "What is photosynthesis?",
+      "reference_answer": "Photosynthesis converts sunlight into chemical energy in plants.",
+      "category": "Biology"
+    },
+    {
+      "text": "Who discovered electricity?",
+      "reference_answer": "Benjamin Franklin is credited with discovering electricity.",
+      "category": "Science"
+    },
+    {
+      "text": "What is the capital of India?",
+      "reference_answer": "New Delhi is the capital of India.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is the smallest prime number?",
+      "reference_answer": "The smallest prime number is 2.",
+      "category": "Math"
+    },
+    {
+      "text": "What is evaporation?",
+      "reference_answer": "Evaporation is the process where liquid turns into vapor.",
+      "category": "Science"
+    },
+    {
+      "text": "Who wrote 'The Alchemist'?",
+      "reference_answer": "Paulo Coelho wrote 'The Alchemist'.",
+      "category": "Literature"
+    },
+    {
+      "text": "What is the currency of Japan?",
+      "reference_answer": "The Japanese currency is the Yen.",
+      "category": "Economics"
+    },
+    {
+      "text": "What is an ecosystem?",
+      "reference_answer": "An ecosystem is a community of living organisms interacting with their environment.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is the tallest mountain in the world?",
+      "reference_answer": "Mount Everest is the tallest mountain.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is the process of water changing to ice called?",
+      "reference_answer": "The process is called freezing.",
+      "category": "Science"
+    },
+    {
+      "text": "What is a triangle with all sides equal called?",
+      "reference_answer": "It is called an equilateral triangle.",
+      "category": "Math"
+    },
+    {
+      "text": "Who invented the airplane?",
+      "reference_answer": "The Wright brothers invented the airplane.",
+      "category": "Technology"
+    },
+    {
+      "text": "What is the main gas in Earth’s atmosphere?",
+      "reference_answer": "Nitrogen makes up about 78% of Earth’s atmosphere.",
+      "category": "Science"
+    },
+    {
+      "text": "What is the capital of China?",
+      "reference_answer": "Beijing is the capital of China.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is an acid?",
+      "reference_answer": "An acid is a substance with pH less than 7.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "Who wrote 'Hamlet'?",
+      "reference_answer": "William Shakespeare wrote 'Hamlet'.",
+      "category": "Literature"
+    },
+    {
+      "text": "What is 200 ÷ 4?",
+      "reference_answer": "200 ÷ 4 = 50.",
+      "category": "Math"
+    },
+    {
+      "text": "What instrument measures temperature?",
+      "reference_answer": "A thermometer measures temperature.",
+      "category": "Science"
+    },
+    {
+      "text": "What is the largest island in the world?",
+      "reference_answer": "Greenland is the largest island.",
+      "category": "Geography"
+    },
+    {
+      "text": "What is a galaxy?",
+      "reference_answer": "A galaxy is a massive system of stars, dust, and gas bound by gravity.",
+      "category": "Astronomy"
+    },
+    {
+      "text": "What is the chemical symbol for oxygen?",
+      "reference_answer": "The symbol for oxygen is O.",
+      "category": "Chemistry"
+    },
+    {
+      "text": "Who was Albert Einstein?",
+      "reference_answer": "Albert Einstein was a theoretical physicist known for the theory of relativity.",
+      "category": "History"
+    },
+    {
+      "text": "What is a verb?",
+      "reference_answer": "A verb is an action or state-of-being word.",
+      "category": "English"
+    },
+    {
+      "text": "What is the biggest ocean animal?",
+      "reference_answer": "The blue whale is the largest ocean animal.",
+      "category": "Biology"
+    },
+    {
+      "text": "What is a renewable resource?",
+      "reference_answer": "A resource that can replenish naturally, like solar or wind energy.",
+      "category": "Environment"
+    },
+    {
+      "text": "What does WWW stand for?",
+      "reference_answer": "WWW stands for World Wide Web.",
+      "category": "Technology"
+    },
+    {
+      "text": "What is gravity?",
+      "reference_answer": "Gravity is a force that attracts objects toward each other.",
+      "category": "Physics"
+    },
+    {
+      "text": "What is the capital of Canada?",
+      "reference_answer": "Ottawa is the capital of Canada.",
+      "category": "Geography"
+    },
+    {
+      "id": 101,
+      "text": "What is the capital of Germany?",
+      "reference_answer": "The capital of Germany is Berlin.",
+      "category": "Geography"
+    },
+    {
+      "id": 102,
+      "text": "What is the primary function of the lungs?",
+      "reference_answer": "The lungs help in exchanging oxygen and carbon dioxide during breathing.",
+      "category": "Biology"
+    },
+    {
+      "id": 103,
+      "text": "What is 81 ÷ 9?",
+      "reference_answer": "81 ÷ 9 = 9.",
+      "category": "Math"
+    },
+    {
+      "id": 104,
+      "text": "Who wrote 'The Great Gatsby'?",
+      "reference_answer": "'The Great Gatsby' was written by F. Scott Fitzgerald.",
+      "category": "Literature"
+    },
+    {
+      "id": 105,
+      "text": "What is the chemical symbol for sodium?",
+      "reference_answer": "The chemical symbol for sodium is Na.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 106,
+      "text": "What is force measured in?",
+      "reference_answer": "Force is measured in Newtons (N).",
+      "category": "Physics"
+    },
+    {
+      "id": 107,
+      "text": "What is the capital of Russia?",
+      "reference_answer": "The capital of Russia is Moscow.",
+      "category": "Geography"
+    },
+    {
+      "id": 108,
+      "text": "What is digestion?",
+      "reference_answer": "Digestion is the process of breaking down food into simpler substances that the body can absorb.",
+      "category": "Biology"
+    },
+    {
+      "id": 109,
+      "text": "What is 14 × 7?",
+      "reference_answer": "14 × 7 = 98.",
+      "category": "Math"
+    },
+    {
+      "id": 110,
+      "text": "Who discovered the law of planetary motion?",
+      "reference_answer": "Johannes Kepler discovered the laws of planetary motion.",
+      "category": "Science"
+    },
+    {
+      "id": 111,
+      "text": "Which metal is liquid at room temperature?",
+      "reference_answer": "Mercury is liquid at room temperature.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 112,
+      "text": "What is the tallest animal in the world?",
+      "reference_answer": "The giraffe is the tallest land animal.",
+      "category": "Biology"
+    },
+    {
+      "id": 113,
+      "text": "What is the capital of South Korea?",
+      "reference_answer": "The capital of South Korea is Seoul.",
+      "category": "Geography"
+    },
+    {
+      "id": 114,
+      "text": "What are synonyms?",
+      "reference_answer": "Synonyms are words that have the same or similar meaning.",
+      "category": "English"
+    },
+    {
+      "id": 115,
+      "text": "What is 250 ÷ 5?",
+      "reference_answer": "250 ÷ 5 = 50.",
+      "category": "Math"
+    },
+    {
+      "id": 116,
+      "text": "Who was the first woman to win a Nobel Prize?",
+      "reference_answer": "Marie Curie was the first woman to win a Nobel Prize.",
+      "category": "History"
+    },
+    {
+      "id": 117,
+      "text": "What is a planet?",
+      "reference_answer": "A planet is a celestial body that orbits a star and does not produce its own light.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 118,
+      "text": "What is the function of the brain?",
+      "reference_answer": "The brain controls thoughts, memory, emotions, and body functions.",
+      "category": "Biology"
+    },
+    {
+      "id": 119,
+      "text": "What is the capital of Brazil?",
+      "reference_answer": "The capital of Brazil is Brasília.",
+      "category": "Geography"
+    },
+    {
+      "id": 120,
+      "text": "What is sound?",
+      "reference_answer": "Sound is a vibration that travels through air or another medium and can be heard.",
+      "category": "Physics"
+    },
+    {
+      "id": 121,
+      "text": "Who invented the World Wide Web?",
+      "reference_answer": "Tim Berners-Lee invented the World Wide Web.",
+      "category": "Technology"
+    },
+    {
+      "id": 122,
+      "text": "What is 60% of 200?",
+      "reference_answer": "60% of 200 is 120.",
+      "category": "Math"
+    },
+    {
+      "id": 123,
+      "text": "What is the capital of Spain?",
+      "reference_answer": "The capital of Spain is Madrid.",
+      "category": "Geography"
+    },
+    {
+      "id": 124,
+      "text": "What does DNA stand for?",
+      "reference_answer": "DNA stands for Deoxyribonucleic Acid.",
+      "category": "Biology"
+    },
+    {
+      "id": 125,
+      "text": "What is the speed of sound?",
+      "reference_answer": "The speed of sound in air is about 343 m/s.",
+      "category": "Physics"
+    },
+    {
+      "id": 126,
+      "text": "Who wrote 'Moby Dick'?",
+      "reference_answer": "'Moby Dick' was written by Herman Melville.",
+      "category": "Literature"
+    },
+    {
+      "id": 127,
+      "text": "What is the currency of the United Kingdom?",
+      "reference_answer": "The currency of the UK is the Pound Sterling.",
+      "category": "Economics"
+    },
+    {
+      "id": 128,
+      "text": "What is an eclipse?",
+      "reference_answer": "An eclipse occurs when one celestial body blocks the light from or to another.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 129,
+      "text": "What is friction?",
+      "reference_answer": "Friction is the force that resists motion between two surfaces in contact.",
+      "category": "Physics"
+    },
+    {
+      "id": 130,
+      "text": "Which is the smallest continent?",
+      "reference_answer": "Australia is the smallest continent.",
+      "category": "Geography"
+    },
+    {
+      "id": 131,
+      "text": "What is 19 × 8?",
+      "reference_answer": "19 × 8 = 152.",
+      "category": "Math"
+    },
+    {
+      "id": 132,
+      "text": "Who discovered radioactivity?",
+      "reference_answer": "Henri Becquerel discovered radioactivity.",
+      "category": "Science"
+    },
+    {
+      "id": 133,
+      "text": "What is chlorophyll?",
+      "reference_answer": "Chlorophyll is the green pigment in plants that absorbs sunlight for photosynthesis.",
+      "category": "Biology"
+    },
+    {
+      "id": 134,
+      "text": "What is 1 kilometer equal to in meters?",
+      "reference_answer": "1 kilometer equals 1000 meters.",
+      "category": "Math"
+    },
+    {
+      "id": 135,
+      "text": "What is a sentence?",
+      "reference_answer": "A sentence is a group of words that expresses a complete thought.",
+      "category": "English"
+    },
+    {
+      "id": 136,
+      "text": "Which country is known as the Land of the Rising Sun?",
+      "reference_answer": "Japan is known as the Land of the Rising Sun.",
+      "category": "Geography"
+    },
+    {
+      "id": 137,
+      "text": "What is a chemical reaction?",
+      "reference_answer": "A chemical reaction is a process where substances change into new substances.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 138,
+      "text": "What is inertia?",
+      "reference_answer": "Inertia is the resistance of an object to change its motion.",
+      "category": "Physics"
+    },
+    {
+      "id": 139,
+      "text": "Who was the first Indian Prime Minister?",
+      "reference_answer": "Jawaharlal Nehru was the first Prime Minister of India.",
+      "category": "History"
+    },
+    {
+      "id": 140,
+      "text": "What is recycling?",
+      "reference_answer": "Recycling is converting waste into reusable material.",
+      "category": "Environment"
+    },
+    {
+      "id": 141,
+      "text": "What is 500 − 275?",
+      "reference_answer": "500 − 275 = 225.",
+      "category": "Math"
+    },
+    {
+      "id": 142,
+      "text": "What is the unit of energy?",
+      "reference_answer": "The unit of energy is the Joule.",
+      "category": "Physics"
+    },
+    {
+      "id": 143,
+      "text": "Who painted the Starry Night?",
+      "reference_answer": "The Starry Night was painted by Vincent van Gogh.",
+      "category": "Art"
+    },
+    {
+      "id": 144,
+      "text": "What is the capital of Italy?",
+      "reference_answer": "The capital of Italy is Rome.",
+      "category": "Geography"
+    },
+    {
+      "id": 145,
+      "text": "What are vertebrates?",
+      "reference_answer": "Vertebrates are animals with a backbone.",
+      "category": "Biology"
+    },
+    {
+      "id": 146,
+      "text": "What is 15% of 400?",
+      "reference_answer": "15% of 400 is 60.",
+      "category": "Math"
+    },
+    {
+      "id": 147,
+      "text": "Who wrote 'War and Peace'?",
+      "reference_answer": "'War and Peace' was written by Leo Tolstoy.",
+      "category": "Literature"
+    },
+    {
+      "id": 148,
+      "text": "What is electricity?",
+      "reference_answer": "Electricity is the flow of electric charge through a conductor.",
+      "category": "Physics"
+    },
+    {
+      "id": 149,
+      "text": "What is a herbivore?",
+      "reference_answer": "A herbivore is an animal that eats plants.",
+      "category": "Biology"
+    },
+    {
+      "id": 150,
+      "text": "What is the capital of Egypt?",
+      "reference_answer": "The capital of Egypt is Cairo.",
+      "category": "Geography"
+    },
+    {
+      "id": 151,
+      "text": "What is a volcano?",
+      "reference_answer": "A volcano is an opening in Earth's crust that allows molten rock to erupt.",
+      "category": "Science"
+    },
+    {
+      "id": 152,
+      "text": "What is 28 ÷ 4?",
+      "reference_answer": "28 ÷ 4 = 7.",
+      "category": "Math"
+    },
+    {
+      "id": 153,
+      "text": "What is the capital of Argentina?",
+      "reference_answer": "The capital of Argentina is Buenos Aires.",
+      "category": "Geography"
+    },
+    {
+      "id": 154,
+      "text": "What is gravity responsible for?",
+      "reference_answer": "Gravity is responsible for keeping planets in orbit and objects grounded.",
+      "category": "Physics"
+    },
+    {
+      "id": 155,
+      "text": "Which planet has rings?",
+      "reference_answer": "Saturn is known for its prominent rings.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 156,
+      "text": "What is the boiling point of alcohol?",
+      "reference_answer": "Ethanol boils at about 78°C.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 157,
+      "text": "Who wrote 'The Odyssey'?",
+      "reference_answer": "'The Odyssey' was written by Homer.",
+      "category": "Literature"
+    },
+    {
+      "id": 158,
+      "text": "What is 7 squared?",
+      "reference_answer": "7 squared = 49.",
+      "category": "Math"
+    },
+    {
+      "id": 159,
+      "text": "What are the three states of matter?",
+      "reference_answer": "Solid, liquid, and gas.",
+      "category": "Science"
+    },
+    {
+      "id": 160,
+      "text": "What is the capital of Indonesia?",
+      "reference_answer": "The capital of Indonesia is Jakarta.",
+      "category": "Geography"
+    },
+    {
+      "id": 161,
+      "text": "Who discovered America?",
+      "reference_answer": "Christopher Columbus is credited with discovering America in 1492.",
+      "category": "History"
+    },
+    {
+      "id": 162,
+      "text": "What is the meaning of inflation?",
+      "reference_answer": "Inflation is the rise in prices over time.",
+      "category": "Economics"
+    },
+    {
+      "id": 163,
+      "text": "What is the chemical symbol for iron?",
+      "reference_answer": "Iron’s chemical symbol is Fe.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 164,
+      "text": "What is the formula for area of a square?",
+      "reference_answer": "Area of a square = side × side.",
+      "category": "Math"
+    },
+    {
+      "id": 165,
+      "text": "What is a dictionary used for?",
+      "reference_answer": "A dictionary is used to find meanings of words.",
+      "category": "English"
+    },
+    {
+      "id": 166,
+      "text": "What is blood made of?",
+      "reference_answer": "Blood consists of plasma, red blood cells, white blood cells, and platelets.",
+      "category": "Biology"
+    },
+    {
+      "id": 167,
+      "text": "What continent is the Sahara Desert located in?",
+      "reference_answer": "The Sahara Desert is located in Africa.",
+      "category": "Geography"
+    },
+    {
+      "id": 168,
+      "text": "What is an atom made of?",
+      "reference_answer": "An atom is made of protons, neutrons, and electrons.",
+      "category": "Science"
+    },
+    {
+      "id": 169,
+      "text": "What does RAM stand for?",
+      "reference_answer": "RAM stands for Random Access Memory.",
+      "category": "Technology"
+    },
+    {
+      "id": 170,
+      "text": "What is a polygon?",
+      "reference_answer": "A polygon is a 2D shape with straight sides.",
+      "category": "Math"
+    },
+    {
+      "id": 171,
+      "text": "What is the capital of Saudi Arabia?",
+      "reference_answer": "Riyadh is the capital of Saudi Arabia.",
+      "category": "Geography"
+    },
+    {
+      "id": 172,
+      "text": "What is heat?",
+      "reference_answer": "Heat is a form of energy that causes substances to rise in temperature.",
+      "category": "Physics"
+    },
+    {
+      "id": 173,
+      "text": "Who was Nelson Mandela?",
+      "reference_answer": "Nelson Mandela was a leader who fought against apartheid in South Africa.",
+      "category": "History"
+    },
+    {
+      "id": 174,
+      "text": "What is 90 ÷ 3?",
+      "reference_answer": "90 ÷ 3 = 30.",
+      "category": "Math"
+    },
+    {
+      "id": 175,
+      "text": "What are mammals?",
+      "reference_answer": "Mammals are warm-blooded animals that give birth to live young.",
+      "category": "Biology"
+    },
+    {
+      "id": 176,
+      "text": "What is the largest ocean reef?",
+      "reference_answer": "The Great Barrier Reef in Australia is the largest reef system.",
+      "category": "Geography"
+    },
+    {
+      "id": 177,
+      "text": "What is a prism?",
+      "reference_answer": "A prism is a transparent optical element that splits white light into colors.",
+      "category": "Physics"
+    },
+    {
+      "id": 178,
+      "text": "What is 3³?",
+      "reference_answer": "3³ = 27.",
+      "category": "Math"
+    },
+    {
+      "id": 179,
+      "text": "Who wrote 'The Lord of the Rings'?",
+      "reference_answer": "'The Lord of the Rings' was written by J.R.R. Tolkien.",
+      "category": "Literature"
+    },
+    {
+      "id": 180,
+      "text": "What is climate?",
+      "reference_answer": "Climate refers to long-term weather patterns in an area.",
+      "category": "Environment"
+    },
+    {
+      "id": 181,
+      "text": "What is the capital of Norway?",
+      "reference_answer": "Oslo is the capital of Norway.",
+      "category": "Geography"
+    },
+    {
+      "id": 182,
+      "text": "What is a mixture?",
+      "reference_answer": "A mixture is made of two or more substances physically combined.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 183,
+      "text": "What is a telescope used for?",
+      "reference_answer": "A telescope is used to observe distant objects in space.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 184,
+      "text": "What is a decade?",
+      "reference_answer": "A decade is a period of 10 years.",
+      "category": "General Knowledge"
+    },
+    {
+      "id": 185,
+      "text": "What is 11 × 11?",
+      "reference_answer": "11 × 11 = 121.",
+      "category": "Math"
+    },
+    {
+      "id": 186,
+      "text": "Who developed the theory of evolution?",
+      "reference_answer": "Charles Darwin developed the theory of evolution.",
+      "category": "Biology"
+    },
+    {
+      "id": 187,
+      "text": "What is the capital of Thailand?",
+      "reference_answer": "The capital of Thailand is Bangkok.",
+      "category": "Geography"
+    },
+    {
+      "id": 188,
+      "text": "What is light?",
+      "reference_answer": "Light is a form of electromagnetic radiation visible to the human eye.",
+      "category": "Physics"
+    },
+    {
+      "id": 189,
+      "text": "What is the national sport of India?",
+      "reference_answer": "Field hockey is considered India's national sport.",
+      "category": "Sports"
+    },
+    {
+      "id": 190,
+      "text": "What is a cell?",
+      "reference_answer": "A cell is the basic unit of life.",
+      "category": "Biology"
+    },
+    {
+      "id": 191,
+      "text": "What is the capital of Kenya?",
+      "reference_answer": "Nairobi is the capital of Kenya.",
+      "category": "Geography"
+    },
+    {
+      "id": 192,
+      "text": "What is a triangle?",
+      "reference_answer": "A triangle is a polygon with three sides.",
+      "category": "Math"
+    },
+    {
+      "id": 193,
+      "text": "Who invented the radio?",
+      "reference_answer": "Guglielmo Marconi is credited with inventing the radio.",
+      "category": "Technology"
+    },
+    {
+      "id": 194,
+      "text": "What is the digestive system?",
+      "reference_answer": "The digestive system breaks down food into nutrients the body can use.",
+      "category": "Biology"
+    },
+    {
+      "id": 195,
+      "text": "What is ozone?",
+      "reference_answer": "Ozone is a gas made of three oxygen atoms found in Earth's atmosphere.",
+      "category": "Environment"
+    },
+    {
+      "id": 196,
+      "text": "What is the capital of New Zealand?",
+      "reference_answer": "Wellington is the capital of New Zealand.",
+      "category": "Geography"
+    },
+    {
+      "id": 197,
+      "text": "Who wrote 'Inferno'?",
+      "reference_answer": "'Inferno' was written by Dante Alighieri.",
+      "category": "Literature"
+    },
+    {
+      "id": 198,
+      "text": "What is a conductor?",
+      "reference_answer": "A conductor is a material that allows electricity to flow through it.",
+      "category": "Physics"
+    },
+    {
+      "id": 199,
+      "text": "What is 64 ÷ 8?",
+      "reference_answer": "64 ÷ 8 = 8.",
+      "category": "Math"
+    },
+    {
+      "id": 200,
+      "text": "What is population?",
+      "reference_answer": "Population refers to the number of people living in an area.",
+      "category": "Civics"
+    },
+    {
+      "id": 201,
+      "text": "What is the capital of Switzerland?",
+      "reference_answer": "The capital of Switzerland is Bern.",
+      "category": "Geography"
+    },
+    {
+      "id": 202,
+      "text": "What is Buddhism?",
+      "reference_answer": "Buddhism is a religion based on the teachings of Siddhartha Gautama, focusing on ending suffering through enlightenment.",
+      "category": "Religion"
+    },
+    {
+      "id": 203,
+      "text": "How many players are on a basketball team on the court?",
+      "reference_answer": "A basketball team has 5 players on the court.",
+      "category": "Sports"
+    },
+    {
+      "id": 204,
+      "text": "Who painted the Sistine Chapel ceiling?",
+      "reference_answer": "Michelangelo painted the Sistine Chapel ceiling.",
+      "category": "Art"
+    },
+    {
+      "id": 205,
+      "text": "What is sociology?",
+      "reference_answer": "Sociology is the study of society, social relationships, and social behavior.",
+      "category": "Social Science"
+    },
+    {
+      "id": 206,
+      "text": "What is 34 × 5?",
+      "reference_answer": "34 × 5 = 170.",
+      "category": "Math"
+    },
+    {
+      "id": 207,
+      "text": "Who founded Islam?",
+      "reference_answer": "Islam was founded by Prophet Muhammad (PBUH).",
+      "category": "Religion"
+    },
+    {
+      "id": 208,
+      "text": "What is the national sport of the USA?",
+      "reference_answer": "Baseball is considered the national sport of the USA.",
+      "category": "Sports"
+    },
+    {
+      "id": 209,
+      "text": "What is the meaning of democracy?",
+      "reference_answer": "Democracy means rule by the people, usually through elected representatives.",
+      "category": "Civics"
+    },
+    {
+      "id": 210,
+      "text": "Who composed the famous classical piece 'Fur Elise'?",
+      "reference_answer": "Ludwig van Beethoven composed 'Fur Elise'.",
+      "category": "Music"
+    },
+    {
+      "id": 211,
+      "text": "What is Hinduism?",
+      "reference_answer": "Hinduism is one of the oldest religions, originating in India and based on the Vedas.",
+      "category": "Religion"
+    },
+    {
+      "id": 212,
+      "text": "How many minutes are in a rugby match?",
+      "reference_answer": "A rugby match is typically 80 minutes long.",
+      "category": "Sports"
+    },
+    {
+      "id": 213,
+      "text": "What is anthropology?",
+      "reference_answer": "Anthropology is the study of humans, their cultures, and their development.",
+      "category": "Social Science"
+    },
+    {
+      "id": 214,
+      "text": "What is the capital of UAE?",
+      "reference_answer": "The capital of UAE is Abu Dhabi.",
+      "category": "Geography"
+    },
+    {
+      "id": 215,
+      "text": "What is calligraphy?",
+      "reference_answer": "Calligraphy is the art of beautiful handwriting.",
+      "category": "Art"
+    },
+    {
+      "id": 216,
+      "text": "What is 75 ÷ 3?",
+      "reference_answer": "75 ÷ 3 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 217,
+      "text": "What does the Quran teach?",
+      "reference_answer": "The Quran teaches guidance for living a righteous and moral life based on the will of Allah.",
+      "category": "Religion"
+    },
+    {
+      "id": 218,
+      "text": "Which sport uses the term 'love' for zero?",
+      "reference_answer": "The term 'love' is used for zero in tennis.",
+      "category": "Sports"
+    },
+    {
+      "id": 219,
+      "text": "What is a constitution?",
+      "reference_answer": "A constitution is a set of rules and principles that guide how a country is governed.",
+      "category": "Civics"
+    },
+    {
+      "id": 220,
+      "text": "Who is known as the Father of Modern Science?",
+      "reference_answer": "Galileo Galilei is known as the Father of Modern Science.",
+      "category": "Science"
+    },
+    {
+      "id": 221,
+      "text": "What is Christianity?",
+      "reference_answer": "Christianity is a religion based on the teachings of Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 222,
+      "text": "What is the duration of a cricket test match?",
+      "reference_answer": "A cricket Test match lasts up to 5 days.",
+      "category": "Sports"
+    },
+    {
+      "id": 223,
+      "text": "What is psychology?",
+      "reference_answer": "Psychology is the study of the mind and human behavior.",
+      "category": "Social Science"
+    },
+    {
+      "id": 224,
+      "text": "What is 3/4 expressed as a percentage?",
+      "reference_answer": "3/4 is equal to 75%.",
+      "category": "Math"
+    },
+    {
+      "id": 225,
+      "text": "Who sculpted the statue of David?",
+      "reference_answer": "The statue of David was sculpted by Michelangelo.",
+      "category": "Art"
+    },
+    {
+      "id": 226,
+      "text": "What is cultural diversity?",
+      "reference_answer": "Cultural diversity refers to the presence of multiple different cultures in a society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 227,
+      "text": "What is Sikhism?",
+      "reference_answer": "Sikhism is a religion founded in India by Guru Nanak, promoting equality and service.",
+      "category": "Religion"
+    },
+    {
+      "id": 228,
+      "text": "What sport is associated with the FIFA World Cup?",
+      "reference_answer": "The FIFA World Cup is a football (soccer) tournament.",
+      "category": "Sports"
+    },
+    {
+      "id": 229,
+      "text": "What is the rule of law?",
+      "reference_answer": "The rule of law means that all individuals and institutions are subject to the law.",
+      "category": "Civics"
+    },
+    {
+      "id": 230,
+      "text": "What is a painting?",
+      "reference_answer": "A painting is a work of art created by applying pigment to a surface like canvas.",
+      "category": "Art"
+    },
+    {
+      "id": 231,
+      "text": "What is Judaism?",
+      "reference_answer": "Judaism is a religion based on the belief in one God and teachings found in the Torah.",
+      "category": "Religion"
+    },
+    {
+      "id": 232,
+      "text": "What is the Olympic symbol?",
+      "reference_answer": "The Olympic symbol consists of five interlocking rings representing the five continents.",
+      "category": "Sports"
+    },
+    {
+      "id": 233,
+      "text": "What is economics?",
+      "reference_answer": "Economics is the study of how resources are produced, distributed, and consumed.",
+      "category": "Social Science"
+    },
+    {
+      "id": 234,
+      "text": "What is 2⁵?",
+      "reference_answer": "2⁵ = 32.",
+      "category": "Math"
+    },
+    {
+      "id": 235,
+      "text": "Who composed the Four Seasons?",
+      "reference_answer": "Antonio Vivaldi composed the Four Seasons.",
+      "category": "Music"
+    },
+    {
+      "id": 236,
+      "text": "What is a festival?",
+      "reference_answer": "A festival is a celebration or event honoring cultural, religious, or historical traditions.",
+      "category": "Culture"
+    },
+    {
+      "id": 237,
+      "text": "What is Islam’s place of worship?",
+      "reference_answer": "Muslims worship in a mosque.",
+      "category": "Religion"
+    },
+    {
+      "id": 238,
+      "text": "What does NBA stand for?",
+      "reference_answer": "NBA stands for National Basketball Association.",
+      "category": "Sports"
+    },
+    {
+      "id": 239,
+      "text": "What is a citizen?",
+      "reference_answer": "A citizen is a legally recognized member of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 240,
+      "text": "Who painted 'The Last Supper'?",
+      "reference_answer": "Leonardo da Vinci painted 'The Last Supper'.",
+      "category": "Art"
+    },
+    {
+      "id": 241,
+      "text": "What is the Bhagavad Gita?",
+      "reference_answer": "The Bhagavad Gita is a sacred Hindu scripture that teaches moral and spiritual values.",
+      "category": "Religion"
+    },
+    {
+      "id": 242,
+      "text": "Which country hosted the 2016 Summer Olympics?",
+      "reference_answer": "Brazil hosted the 2016 Summer Olympics in Rio de Janeiro.",
+      "category": "Sports"
+    },
+    {
+      "id": 243,
+      "text": "What is political science?",
+      "reference_answer": "Political science is the study of government and political processes.",
+      "category": "Social Science"
+    },
+    {
+      "id": 244,
+      "text": "What is the sum of angles in a triangle?",
+      "reference_answer": "The sum of angles in a triangle is 180 degrees.",
+      "category": "Math"
+    },
+    {
+      "id": 245,
+      "text": "What is sculpture?",
+      "reference_answer": "Sculpture is an art form that involves shaping materials like stone or clay.",
+      "category": "Art"
+    },
+    {
+      "id": 246,
+      "text": "What is ethics?",
+      "reference_answer": "Ethics is the study of moral principles that govern behavior.",
+      "category": "Philosophy"
+    },
+    {
+      "id": 247,
+      "text": "What is Zakat in Islam?",
+      "reference_answer": "Zakat is a form of almsgiving and one of the Five Pillars of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 248,
+      "text": "How many players are on a volleyball team?",
+      "reference_answer": "A volleyball team has 6 players on the court.",
+      "category": "Sports"
+    },
+    {
+      "id": 249,
+      "text": "What is a government?",
+      "reference_answer": "A government is an authority that creates and enforces laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 250,
+      "text": "Who is the painter of 'Girl with a Pearl Earring'?",
+      "reference_answer": "'Girl with a Pearl Earring' was painted by Johannes Vermeer.",
+      "category": "Art"
+    },
+    {
+      "id": 251,
+      "text": "What is fasting in religion?",
+      "reference_answer": "Fasting is the practice of abstaining from food or drink for spiritual reasons.",
+      "category": "Religion"
+    },
+    {
+      "id": 252,
+      "text": "What is a marathon?",
+      "reference_answer": "A marathon is a long-distance running race of 42.195 km.",
+      "category": "Sports"
+    },
+    {
+      "id": 253,
+      "text": "What is human rights?",
+      "reference_answer": "Human rights are fundamental freedoms and protections every person deserves.",
+      "category": "Social Science"
+    },
+    {
+      "id": 254,
+      "text": "What is 9 × 14?",
+      "reference_answer": "9 × 14 = 126.",
+      "category": "Math"
+    },
+    {
+      "id": 255,
+      "text": "What is an opera?",
+      "reference_answer": "Opera is a dramatic art form combining music, singing, and acting.",
+      "category": "Music"
+    },
+    {
+      "id": 256,
+      "text": "What is heritage?",
+      "reference_answer": "Heritage refers to cultural traditions and historical sites passed through generations.",
+      "category": "Culture"
+    },
+    {
+      "id": 257,
+      "text": "What is Christianity’s place of worship?",
+      "reference_answer": "Christians worship in a church.",
+      "category": "Religion"
+    },
+    {
+      "id": 258,
+      "text": "In which sport is the term 'goalkeeper' used?",
+      "reference_answer": "The term goalkeeper is used in football (soccer) and hockey.",
+      "category": "Sports"
+    },
+    {
+      "id": 259,
+      "text": "What is a parliament?",
+      "reference_answer": "Parliament is the legislative body of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 260,
+      "text": "Who painted the 'Birth of Venus'?",
+      "reference_answer": "Sandro Botticelli painted the 'Birth of Venus'.",
+      "category": "Art"
+    },
+    {
+      "id": 261,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the central religious text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 262,
+      "text": "What sport does Lionel Messi play?",
+      "reference_answer": "Lionel Messi plays football (soccer).",
+      "category": "Sports"
+    },
+    {
+      "id": 263,
+      "text": "What is a community?",
+      "reference_answer": "A community is a group of people living in the same area or sharing common interests.",
+      "category": "Social Science"
+    },
+    {
+      "id": 264,
+      "text": "What is 100 ÷ 25?",
+      "reference_answer": "100 ÷ 25 = 4.",
+      "category": "Math"
+    },
+    {
+      "id": 265,
+      "text": "What is a mural?",
+      "reference_answer": "A mural is a large painting on a wall or ceiling.",
+      "category": "Art"
+    },
+    {
+      "id": 266,
+      "text": "What is logic?",
+      "reference_answer": "Logic is the study of reasoning and valid arguments.",
+      "category": "Philosophy"
+    },
+    {
+      "id": 267,
+      "text": "What is Ramadan?",
+      "reference_answer": "Ramadan is the Islamic month of fasting, prayer, and reflection.",
+      "category": "Religion"
+    },
+    {
+      "id": 268,
+      "text": "How many players are in a baseball team?",
+      "reference_answer": "A baseball team has 9 players on the field.",
+      "category": "Sports"
+    },
+    {
+      "id": 269,
+      "text": "What is a law?",
+      "reference_answer": "A law is a rule created by the government to maintain order.",
+      "category": "Civics"
+    },
+    {
+      "id": 270,
+      "text": "What is ballet?",
+      "reference_answer": "Ballet is a classical dance form known for expressive movement and technique.",
+      "category": "Art"
+    },
+    {
+      "id": 271,
+      "text": "What is meditation?",
+      "reference_answer": "Meditation is a mental practice that involves focus and relaxation.",
+      "category": "Religion"
+    },
+    {
+      "id": 272,
+      "text": "What is the FIFA World Cup?",
+      "reference_answer": "The FIFA World Cup is an international football championship held every four years.",
+      "category": "Sports"
+    },
+    {
+      "id": 273,
+      "text": "What is social justice?",
+      "reference_answer": "Social justice is fairness and equality in society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 274,
+      "text": "What is the square root of 400?",
+      "reference_answer": "The square root of 400 is 20.",
+      "category": "Math"
+    },
+    {
+      "id": 275,
+      "text": "What is portrait art?",
+      "reference_answer": "Portrait art represents a person, focusing on the face and expression.",
+      "category": "Art"
+    },
+    {
+      "id": 276,
+      "text": "What is moral values?",
+      "reference_answer": "Moral values are principles that guide right and wrong behavior.",
+      "category": "Philosophy"
+    },
+    {
+      "id": 277,
+      "text": "What do Hindus traditionally worship in temples?",
+      "reference_answer": "Hindus worship deities in temples.",
+      "category": "Religion"
+    },
+    {
+      "id": 278,
+      "text": "What is the Super Bowl?",
+      "reference_answer": "The Super Bowl is the championship game of American football (NFL).",
+      "category": "Sports"
+    },
+    {
+      "id": 279,
+      "text": "What is a democracy?",
+      "reference_answer": "A democracy is a government where people elect their leaders.",
+      "category": "Civics"
+    },
+    {
+      "id": 280,
+      "text": "What is contemporary art?",
+      "reference_answer": "Contemporary art refers to modern artistic works created in recent times.",
+      "category": "Art"
+    },
+    {
+      "id": 281,
+      "text": "What is a pilgrimage?",
+      "reference_answer": "A pilgrimage is a religious journey to a sacred place.",
+      "category": "Religion"
+    },
+    {
+      "id": 282,
+      "text": "Which sport uses a puck?",
+      "reference_answer": "Ice hockey uses a puck.",
+      "category": "Sports"
+    },
+    {
+      "id": 283,
+      "text": "What is a society?",
+      "reference_answer": "A society is a group of people living together with shared laws and customs.",
+      "category": "Social Science"
+    },
+    {
+      "id": 284,
+      "text": "What is 16 × 18?",
+      "reference_answer": "16 × 18 = 288.",
+      "category": "Math"
+    },
+    {
+      "id": 285,
+      "text": "What is folk music?",
+      "reference_answer": "Folk music is traditional music that reflects cultural stories and traditions.",
+      "category": "Music"
+    },
+    {
+      "id": 286,
+      "text": "What is tradition?",
+      "reference_answer": "Tradition is the passing of customs or beliefs from generation to generation.",
+      "category": "Culture"
+    },
+    {
+      "id": 287,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christians.",
+      "category": "Religion"
+    },
+    {
+      "id": 288,
+      "text": "What is a penalty kick?",
+      "reference_answer": "A penalty kick is a direct free shot in football taken from the penalty spot.",
+      "category": "Sports"
+    },
+    {
+      "id": 289,
+      "text": "What is a political party?",
+      "reference_answer": "A political party is an organized group seeking to gain political power.",
+      "category": "Civics"
+    },
+    {
+      "id": 290,
+      "text": "What is abstract art?",
+      "reference_answer": "Abstract art uses shapes and colors instead of realistic objects.",
+      "category": "Art"
+    },
+    {
+      "id": 291,
+      "text": "What is Jainism?",
+      "reference_answer": "Jainism is an ancient Indian religion teaching nonviolence and truth.",
+      "category": "Religion"
+    },
+    {
+      "id": 292,
+      "text": "What is the NBA Finals?",
+      "reference_answer": "The NBA Finals is the championship series of the National Basketball Association.",
+      "category": "Sports"
+    },
+    {
+      "id": 293,
+      "text": "What is culture?",
+      "reference_answer": "Culture includes beliefs, customs, arts, and traditions of a group of people.",
+      "category": "Social Science"
+    },
+    {
+      "id": 294,
+      "text": "What is 125 ÷ 5?",
+      "reference_answer": "125 ÷ 5 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 295,
+      "text": "What is digital art?",
+      "reference_answer": "Digital art is artwork created using digital tools and technology.",
+      "category": "Art"
+    },
+    {
+      "id": 296,
+      "text": "What is compassion?",
+      "reference_answer": "Compassion is the feeling of empathy and care for others' suffering.",
+      "category": "Philosophy"
+    },
+    {
+      "id": 297,
+      "text": "What is a prayer?",
+      "reference_answer": "Prayer is an act of communicating with a deity, expressing gratitude or seeking guidance.",
+      "category": "Religion"
+    },
+    {
+      "id": 298,
+      "text": "What sport uses the term 'strike'?",
+      "reference_answer": "The term 'strike' is used in baseball and bowling.",
+      "category": "Sports"
+    },
+    {
+      "id": 299,
+      "text": "What is equality?",
+      "reference_answer": "Equality means giving the same rights and opportunities to all people.",
+      "category": "Civics"
+    },
+    {
+      "id": 300,
+      "text": "What is a caricature?",
+      "reference_answer": "A caricature is an exaggerated drawing of a person to create a humorous effect.",
+      "category": "Art"
+    },
+    {
+      "id": 301,
+      "text": "What is the capital of Portugal?",
+      "reference_answer": "The capital of Portugal is Lisbon.",
+      "category": "Geography"
+    },
+    {
+      "id": 302,
+      "text": "What is prayer in religion?",
+      "reference_answer": "Prayer is the act of communicating with a deity for worship, guidance, or gratitude.",
+      "category": "Religion"
+    },
+    {
+      "id": 303,
+      "text": "How many players are on a cricket team?",
+      "reference_answer": "A cricket team has 11 players.",
+      "category": "Sports"
+    },
+    {
+      "id": 304,
+      "text": "What is poetry?",
+      "reference_answer": "Poetry is a form of literature that expresses emotion and imagination through rhythmic and sometimes rhymed language.",
+      "category": "Art"
+    },
+    {
+      "id": 305,
+      "text": "What is a social group?",
+      "reference_answer": "A social group is a collection of individuals who interact and share common interests or identities.",
+      "category": "Social Science"
+    },
+    {
+      "id": 306,
+      "text": "What is 45 × 4?",
+      "reference_answer": "45 × 4 = 180.",
+      "category": "Math"
+    },
+    {
+      "id": 307,
+      "text": "Who is considered the founder of Christianity?",
+      "reference_answer": "Christianity is based on the teachings of Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 308,
+      "text": "What is the length of an Olympic running track?",
+      "reference_answer": "An Olympic running track is 400 meters long per lap.",
+      "category": "Sports"
+    },
+    {
+      "id": 309,
+      "text": "What is citizenship?",
+      "reference_answer": "Citizenship refers to being a legally recognized member of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 310,
+      "text": "What is digital photography?",
+      "reference_answer": "Digital photography is capturing images using electronic image sensors.",
+      "category": "Art"
+    },
+    {
+      "id": 311,
+      "text": "What is the Bhagavad Gita mainly about?",
+      "reference_answer": "The Bhagavad Gita discusses duty, morality, and devotion.",
+      "category": "Religion"
+    },
+    {
+      "id": 312,
+      "text": "Which sport is known as the 'King of Sports'?",
+      "reference_answer": "Football (soccer) is often called the King of Sports.",
+      "category": "Sports"
+    },
+    {
+      "id": 313,
+      "text": "What is political equality?",
+      "reference_answer": "Political equality means all citizens have equal rights in the political process.",
+      "category": "Civics"
+    },
+    {
+      "id": 314,
+      "text": "What is 102 − 57?",
+      "reference_answer": "102 − 57 = 45.",
+      "category": "Math"
+    },
+    {
+      "id": 315,
+      "text": "What is a portrait?",
+      "reference_answer": "A portrait is an artistic representation of a person, focusing on the face.",
+      "category": "Art"
+    },
+    {
+      "id": 316,
+      "text": "What is a prophet?",
+      "reference_answer": "A prophet is a spiritual messenger believed to speak on behalf of God.",
+      "category": "Religion"
+    },
+    {
+      "id": 317,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a bat-and-ball sport played with two teams of nine players.",
+      "category": "Sports"
+    },
+    {
+      "id": 318,
+      "text": "What is an election?",
+      "reference_answer": "An election is a process where people vote to choose leaders.",
+      "category": "Civics"
+    },
+    {
+      "id": 319,
+      "text": "What is kinetic energy?",
+      "reference_answer": "Kinetic energy is the energy an object has due to its motion.",
+      "category": "Physics"
+    },
+    {
+      "id": 320,
+      "text": "Who painted 'The Scream'?",
+      "reference_answer": "‘The Scream’ was painted by Edvard Munch.",
+      "category": "Art"
+    },
+    {
+      "id": 321,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy book of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 322,
+      "text": "What sport uses a hoop and a backboard?",
+      "reference_answer": "Basketball uses a hoop and a backboard.",
+      "category": "Sports"
+    },
+    {
+      "id": 323,
+      "text": "What is social responsibility?",
+      "reference_answer": "Social responsibility means acting for the benefit of society as a whole.",
+      "category": "Social Science"
+    },
+    {
+      "id": 324,
+      "text": "What is 12 × 16?",
+      "reference_answer": "12 × 16 = 192.",
+      "category": "Math"
+    },
+    {
+      "id": 325,
+      "text": "What is classical music?",
+      "reference_answer": "Classical music refers to traditional Western art music composed over centuries.",
+      "category": "Music"
+    },
+    {
+      "id": 326,
+      "text": "What is cultural heritage?",
+      "reference_answer": "Cultural heritage includes monuments, traditions, and objects passed through generations.",
+      "category": "Culture"
+    },
+    {
+      "id": 327,
+      "text": "Who is the founder of Buddhism?",
+      "reference_answer": "Buddhism was founded by Siddhartha Gautama.",
+      "category": "Religion"
+    },
+    {
+      "id": 328,
+      "text": "What is golf?",
+      "reference_answer": "Golf is a sport where players hit a ball into a series of holes using clubs.",
+      "category": "Sports"
+    },
+    {
+      "id": 329,
+      "text": "What is the judiciary?",
+      "reference_answer": "The judiciary is the branch of government that interprets laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 330,
+      "text": "What are warm colors in art?",
+      "reference_answer": "Warm colors include red, orange, and yellow.",
+      "category": "Art"
+    },
+    {
+      "id": 331,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the central religious text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 332,
+      "text": "What is archery?",
+      "reference_answer": "Archery is the sport of shooting arrows with a bow.",
+      "category": "Sports"
+    },
+    {
+      "id": 333,
+      "text": "What is discrimination?",
+      "reference_answer": "Discrimination is unfair treatment based on characteristics like race or gender.",
+      "category": "Social Science"
+    },
+    {
+      "id": 334,
+      "text": "What is 225 ÷ 9?",
+      "reference_answer": "225 ÷ 9 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 335,
+      "text": "What is sculpture?",
+      "reference_answer": "Sculpture is the art of shaping materials like stone or clay into three-dimensional forms.",
+      "category": "Art"
+    },
+    {
+      "id": 336,
+      "text": "What is spiritual growth?",
+      "reference_answer": "Spiritual growth is the process of developing deeper religious or moral understanding.",
+      "category": "Religion"
+    },
+    {
+      "id": 337,
+      "text": "How many holes are there in a standard golf course?",
+      "reference_answer": "A standard golf course has 18 holes.",
+      "category": "Sports"
+    },
+    {
+      "id": 338,
+      "text": "What is public opinion?",
+      "reference_answer": "Public opinion is the collective views of citizens on political or social issues.",
+      "category": "Civics"
+    },
+    {
+      "id": 339,
+      "text": "What is evaporation?",
+      "reference_answer": "Evaporation is the process where liquid turns into vapor.",
+      "category": "Science"
+    },
+    {
+      "id": 340,
+      "text": "What is charcoal drawing?",
+      "reference_answer": "Charcoal drawing uses charcoal sticks to create artworks with rich dark tones.",
+      "category": "Art"
+    },
+    {
+      "id": 341,
+      "text": "What is Sikhism?",
+      "reference_answer": "Sikhism is a monotheistic religion founded by Guru Nanak in India.",
+      "category": "Religion"
+    },
+    {
+      "id": 342,
+      "text": "What is boxing?",
+      "reference_answer": "Boxing is a combat sport where two participants fight using their fists.",
+      "category": "Sports"
+    },
+    {
+      "id": 343,
+      "text": "What is globalization?",
+      "reference_answer": "Globalization is the increasing interconnectedness of countries through trade, communication, and travel.",
+      "category": "Social Science"
+    },
+    {
+      "id": 344,
+      "text": "What is 14 squared?",
+      "reference_answer": "14 squared = 196.",
+      "category": "Math"
+    },
+    {
+      "id": 345,
+      "text": "What is surrealism?",
+      "reference_answer": "Surrealism is an art movement focused on dream-like and imaginative scenes.",
+      "category": "Art"
+    },
+    {
+      "id": 346,
+      "text": "What is worship?",
+      "reference_answer": "Worship is showing reverence and devotion to God or a deity.",
+      "category": "Religion"
+    },
+    {
+      "id": 347,
+      "text": "What is badminton?",
+      "reference_answer": "Badminton is a racquet sport played with a shuttlecock.",
+      "category": "Sports"
+    },
+    {
+      "id": 348,
+      "text": "What is a constitution?",
+      "reference_answer": "A constitution is a set of fundamental principles that guide a government's structure and laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 349,
+      "text": "What is matter?",
+      "reference_answer": "Matter is anything that has mass and occupies space.",
+      "category": "Science"
+    },
+    {
+      "id": 350,
+      "text": "What is sketching?",
+      "reference_answer": "Sketching is a quick, rough drawing often used to outline ideas.",
+      "category": "Art"
+    },
+    {
+      "id": 351,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 352,
+      "text": "What is swimming?",
+      "reference_answer": "Swimming is a sport that involves moving through water using limbs.",
+      "category": "Sports"
+    },
+    {
+      "id": 353,
+      "text": "What is sociology?",
+      "reference_answer": "Sociology is the study of social relationships, interactions, and institutions.",
+      "category": "Social Science"
+    },
+    {
+      "id": 354,
+      "text": "What is 2 × 55?",
+      "reference_answer": "2 × 55 = 110.",
+      "category": "Math"
+    },
+    {
+      "id": 355,
+      "text": "What is abstract art?",
+      "reference_answer": "Abstract art uses shapes, colors, and forms without depicting real objects.",
+      "category": "Art"
+    },
+    {
+      "id": 356,
+      "text": "What is enlightenment in Buddhism?",
+      "reference_answer": "Enlightenment is achieving deep understanding, wisdom, and freedom from suffering.",
+      "category": "Religion"
+    },
+    {
+      "id": 357,
+      "text": "What is hockey?",
+      "reference_answer": "Hockey is a sport where players use sticks to hit a puck or ball into the opposing goal.",
+      "category": "Sports"
+    },
+    {
+      "id": 358,
+      "text": "What is a civil right?",
+      "reference_answer": "Civil rights are freedoms that protect individuals from unfair treatment.",
+      "category": "Civics"
+    },
+    {
+      "id": 359,
+      "text": "What is a chemical reaction?",
+      "reference_answer": "A chemical reaction is when substances change to form new substances.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 360,
+      "text": "What is realism in art?",
+      "reference_answer": "Realism is an art style that depicts subjects as they appear in real life.",
+      "category": "Art"
+    },
+    {
+      "id": 361,
+      "text": "What is a mosque?",
+      "reference_answer": "A mosque is a place where Muslims gather for worship.",
+      "category": "Religion"
+    },
+    {
+      "id": 362,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played indoors or outdoors on a rectangular court.",
+      "category": "Sports"
+    },
+    {
+      "id": 363,
+      "text": "What is anthropology?",
+      "reference_answer": "Anthropology is the study of humans, their origins, cultures, and societies.",
+      "category": "Social Science"
+    },
+    {
+      "id": 364,
+      "text": "What is 6³?",
+      "reference_answer": "6³ = 216.",
+      "category": "Math"
+    },
+    {
+      "id": 365,
+      "text": "What is architecture?",
+      "reference_answer": "Architecture is the art and science of designing buildings.",
+      "category": "Art"
+    },
+    {
+      "id": 366,
+      "text": "What is worship in Christianity?",
+      "reference_answer": "Christian worship includes prayer, singing hymns, and reading scripture.",
+      "category": "Religion"
+    },
+    {
+      "id": 367,
+      "text": "What is rugby?",
+      "reference_answer": "Rugby is a contact sport played with an oval ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 368,
+      "text": "What is federalism?",
+      "reference_answer": "Federalism is a system where power is divided between central and regional governments.",
+      "category": "Civics"
+    },
+    {
+      "id": 369,
+      "text": "What is the atmosphere?",
+      "reference_answer": "The atmosphere is the layer of gases surrounding Earth.",
+      "category": "Science"
+    },
+    {
+      "id": 370,
+      "text": "What is mosaic art?",
+      "reference_answer": "Mosaic art involves creating images from small pieces of glass, stone, or tile.",
+      "category": "Art"
+    },
+    {
+      "id": 371,
+      "text": "What is karma in Hinduism?",
+      "reference_answer": "Karma refers to actions and their consequences, shaping one's future life.",
+      "category": "Religion"
+    },
+    {
+      "id": 372,
+      "text": "What is Formula 1?",
+      "reference_answer": "Formula 1 is the highest class of international auto racing.",
+      "category": "Sports"
+    },
+    {
+      "id": 373,
+      "text": "What is culture shock?",
+      "reference_answer": "Culture shock is the feeling of confusion when experiencing a new culture.",
+      "category": "Social Science"
+    },
+    {
+      "id": 374,
+      "text": "What is 99 + 101?",
+      "reference_answer": "99 + 101 = 200.",
+      "category": "Math"
+    },
+    {
+      "id": 375,
+      "text": "What is calligraphy?",
+      "reference_answer": "Calligraphy is the art of decorative handwriting.",
+      "category": "Art"
+    },
+    {
+      "id": 376,
+      "text": "What is Mecca?",
+      "reference_answer": "Mecca is Islam’s holiest city, located in Saudi Arabia.",
+      "category": "Religion"
+    },
+    {
+      "id": 377,
+      "text": "What is badminton smash?",
+      "reference_answer": "A badminton smash is a powerful downward shot to score points.",
+      "category": "Sports"
+    },
+    {
+      "id": 378,
+      "text": "What is public administration?",
+      "reference_answer": "Public administration is the management of government programs and policies.",
+      "category": "Civics"
+    },
+    {
+      "id": 379,
+      "text": "What is a cell?",
+      "reference_answer": "A cell is the basic structural and functional unit of life.",
+      "category": "Biology"
+    },
+    {
+      "id": 380,
+      "text": "What is cubism?",
+      "reference_answer": "Cubism is an art movement that uses geometric shapes to depict subjects.",
+      "category": "Art"
+    },
+    {
+      "id": 381,
+      "text": "What is a mantra?",
+      "reference_answer": "A mantra is a sacred phrase or sound repeated during meditation.",
+      "category": "Religion"
+    },
+    {
+      "id": 382,
+      "text": "What is sprinting?",
+      "reference_answer": "Sprinting is running at full speed over a short distance.",
+      "category": "Sports"
+    },
+    {
+      "id": 383,
+      "text": "What is social change?",
+      "reference_answer": "Social change is the transformation of cultural, economic, or social institutions.",
+      "category": "Social Science"
+    },
+    {
+      "id": 384,
+      "text": "What is 50 × 9?",
+      "reference_answer": "50 × 9 = 450.",
+      "category": "Math"
+    },
+    {
+      "id": 385,
+      "text": "What is graffiti?",
+      "reference_answer": "Graffiti is street art created with spray paint on public surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 386,
+      "text": "What is the Talmud?",
+      "reference_answer": "The Talmud is a central text of Rabbinic Judaism containing laws and teachings.",
+      "category": "Religion"
+    },
+    {
+      "id": 387,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a sport where players hit a lightweight ball across a table using paddles.",
+      "category": "Sports"
+    },
+    {
+      "id": 388,
+      "text": "What is justice?",
+      "reference_answer": "Justice means fairness and upholding what is right.",
+      "category": "Civics"
+    },
+    {
+      "id": 389,
+      "text": "What is gravity?",
+      "reference_answer": "Gravity is the force that attracts objects toward each other.",
+      "category": "Physics"
+    },
+    {
+      "id": 390,
+      "text": "What is watercolor painting?",
+      "reference_answer": "Watercolor painting uses pigments mixed with water applied on paper.",
+      "category": "Art"
+    },
+    {
+      "id": 391,
+      "text": "What is Islam?",
+      "reference_answer": "Islam is a monotheistic religion based on the teachings of Prophet Muhammad (PBUH).",
+      "category": "Religion"
+    },
+    {
+      "id": 392,
+      "text": "What is kabaddi?",
+      "reference_answer": "Kabaddi is a contact team sport that originated in India.",
+      "category": "Sports"
+    },
+    {
+      "id": 393,
+      "text": "What is patriotism?",
+      "reference_answer": "Patriotism is love and devotion for one's country.",
+      "category": "Social Science"
+    },
+    {
+      "id": 394,
+      "text": "What is 11 × 15?",
+      "reference_answer": "11 × 15 = 165.",
+      "category": "Math"
+    },
+    {
+      "id": 395,
+      "text": "What is oil painting?",
+      "reference_answer": "Oil painting uses pigments mixed with oil to create art on canvas.",
+      "category": "Art"
+    },
+    {
+      "id": 396,
+      "text": "What is meditation in Buddhism?",
+      "reference_answer": "Meditation helps achieve mindfulness and insight.",
+      "category": "Religion"
+    },
+    {
+      "id": 397,
+      "text": "What is fencing?",
+      "reference_answer": "Fencing is a sport where players duel with swords like foil, épée, or sabre.",
+      "category": "Sports"
+    },
+    {
+      "id": 398,
+      "text": "What is a democracy?",
+      "reference_answer": "A democracy is a form of government where citizens elect leaders.",
+      "category": "Civics"
+    },
+    {
+      "id": 399,
+      "text": "What is chemistry?",
+      "reference_answer": "Chemistry is the study of matter and how substances interact.",
+      "category": "Science"
+    },
+    {
+      "id": 400,
+      "text": "What is portrait photography?",
+      "reference_answer": "Portrait photography focuses on capturing the personality of a person.",
+      "category": "Art"
+    },
+    {
+      "id": 401,
+      "text": "What is the capital of Philippines?",
+      "reference_answer": "The capital of the Philippines is Manila.",
+      "category": "Geography"
+    },
+    {
+      "id": 402,
+      "text": "What is the holy book of Sikhism?",
+      "reference_answer": "The Guru Granth Sahib is the holy book of Sikhism.",
+      "category": "Religion"
+    },
+    {
+      "id": 403,
+      "text": "What sport uses the term 'alley-oop'?",
+      "reference_answer": "The term 'alley-oop' is used in basketball.",
+      "category": "Sports"
+    },
+    {
+      "id": 404,
+      "text": "What is a landscape painting?",
+      "reference_answer": "A landscape painting depicts natural scenery like mountains, forests, or rivers.",
+      "category": "Art"
+    },
+    {
+      "id": 405,
+      "text": "What is anthropology?",
+      "reference_answer": "Anthropology is the study of humans, their societies, and cultures.",
+      "category": "Social Science"
+    },
+    {
+      "id": 406,
+      "text": "What is 18 × 22?",
+      "reference_answer": "18 × 22 = 396.",
+      "category": "Math"
+    },
+    {
+      "id": 407,
+      "text": "What is the Kaaba?",
+      "reference_answer": "The Kaaba is a sacred structure in Mecca that Muslims face during prayer.",
+      "category": "Religion"
+    },
+    {
+      "id": 408,
+      "text": "What sport uses the term 'birdie'?",
+      "reference_answer": "The term 'birdie' is used in golf.",
+      "category": "Sports"
+    },
+    {
+      "id": 409,
+      "text": "What is human dignity?",
+      "reference_answer": "Human dignity refers to the inherent value and respect owed to all people.",
+      "category": "Civics"
+    },
+    {
+      "id": 410,
+      "text": "What is portrait sketching?",
+      "reference_answer": "Portrait sketching is a quick drawing capturing a person's face or expression.",
+      "category": "Art"
+    },
+    {
+      "id": 411,
+      "text": "What is karma?",
+      "reference_answer": "Karma is the belief that actions have consequences affecting future experiences.",
+      "category": "Religion"
+    },
+    {
+      "id": 412,
+      "text": "What is a relay race?",
+      "reference_answer": "A relay race is a track event where runners pass a baton to teammates.",
+      "category": "Sports"
+    },
+    {
+      "id": 413,
+      "text": "What is social inequality?",
+      "reference_answer": "Social inequality is the unequal distribution of resources and opportunities.",
+      "category": "Social Science"
+    },
+    {
+      "id": 414,
+      "text": "What is 700 − 265?",
+      "reference_answer": "700 − 265 = 435.",
+      "category": "Math"
+    },
+    {
+      "id": 415,
+      "text": "What is abstract sculpture?",
+      "reference_answer": "Abstract sculpture represents ideas using shapes not found in reality.",
+      "category": "Art"
+    },
+    {
+      "id": 416,
+      "text": "What is the Hajj?",
+      "reference_answer": "Hajj is the Islamic pilgrimage to Mecca that every Muslim must perform once if able.",
+      "category": "Religion"
+    },
+    {
+      "id": 417,
+      "text": "What is wrestling?",
+      "reference_answer": "Wrestling is a combat sport involving grappling techniques.",
+      "category": "Sports"
+    },
+    {
+      "id": 418,
+      "text": "What is constitutional monarchy?",
+      "reference_answer": "A constitutional monarchy is a government where a king or queen acts as head of state within a constitution's limits.",
+      "category": "Civics"
+    },
+    {
+      "id": 419,
+      "text": "What is diffusion?",
+      "reference_answer": "Diffusion is the movement of particles from high to low concentration.",
+      "category": "Science"
+    },
+    {
+      "id": 420,
+      "text": "What is modern art?",
+      "reference_answer": "Modern art refers to artistic works produced between the 1860s and 1970s with new styles and ideas.",
+      "category": "Art"
+    },
+    {
+      "id": 421,
+      "text": "What is Ramadan?",
+      "reference_answer": "Ramadan is the Islamic month of fasting, prayer, and reflection.",
+      "category": "Religion"
+    },
+    {
+      "id": 422,
+      "text": "What is hockey?",
+      "reference_answer": "Hockey is a sport where players use sticks to hit a puck or ball into the opponent's goal.",
+      "category": "Sports"
+    },
+    {
+      "id": 423,
+      "text": "What is a stereotype?",
+      "reference_answer": "A stereotype is a generalized belief about a group of people.",
+      "category": "Social Science"
+    },
+    {
+      "id": 424,
+      "text": "What is 64 ÷ 4?",
+      "reference_answer": "64 ÷ 4 = 16.",
+      "category": "Math"
+    },
+    {
+      "id": 425,
+      "text": "What is pottery?",
+      "reference_answer": "Pottery is the art of making objects from clay and heating them.",
+      "category": "Art"
+    },
+    {
+      "id": 426,
+      "text": "What is a rosary?",
+      "reference_answer": "A rosary is a set of prayer beads used in Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 427,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a bat-and-ball sport played with two teams of nine players.",
+      "category": "Sports"
+    },
+    {
+      "id": 428,
+      "text": "What is parliament?",
+      "reference_answer": "Parliament is the legislative body responsible for making laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 429,
+      "text": "What is osmosis?",
+      "reference_answer": "Osmosis is the movement of water molecules across a semipermeable membrane.",
+      "category": "Biology"
+    },
+    {
+      "id": 430,
+      "text": "What is a mural?",
+      "reference_answer": "A mural is a large artwork painted on a wall or ceiling.",
+      "category": "Art"
+    },
+    {
+      "id": 431,
+      "text": "What is Christianity?",
+      "reference_answer": "Christianity is a religion based on the teachings of Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 432,
+      "text": "What is chess?",
+      "reference_answer": "Chess is a board game played between two players to checkmate the opponent's king.",
+      "category": "Sports"
+    },
+    {
+      "id": 433,
+      "text": "What is a tribe?",
+      "reference_answer": "A tribe is a social group connected by shared culture and ancestry.",
+      "category": "Social Science"
+    },
+    {
+      "id": 434,
+      "text": "What is the cube root of 125?",
+      "reference_answer": "The cube root of 125 is 5.",
+      "category": "Math"
+    },
+    {
+      "id": 435,
+      "text": "What is contemporary dance?",
+      "reference_answer": "Contemporary dance is a modern dance style combining expressive movements.",
+      "category": "Art"
+    },
+    {
+      "id": 436,
+      "text": "What is the Vedas?",
+      "reference_answer": "The Vedas are ancient Hindu scriptures containing spiritual teachings.",
+      "category": "Religion"
+    },
+    {
+      "id": 437,
+      "text": "What is boxing?",
+      "reference_answer": "Boxing is a combat sport where two athletes throw punches at each other.",
+      "category": "Sports"
+    },
+    {
+      "id": 438,
+      "text": "What is equality?",
+      "reference_answer": "Equality means giving everyone the same rights and opportunities.",
+      "category": "Civics"
+    },
+    {
+      "id": 439,
+      "text": "What is a cell membrane?",
+      "reference_answer": "A cell membrane is a protective layer that controls what enters and leaves the cell.",
+      "category": "Biology"
+    },
+    {
+      "id": 440,
+      "text": "What is comic art?",
+      "reference_answer": "Comic art uses sequential illustrations to tell stories.",
+      "category": "Art"
+    },
+    {
+      "id": 441,
+      "text": "What is spirituality?",
+      "reference_answer": "Spirituality involves seeking deeper meaning, connection, and purpose.",
+      "category": "Religion"
+    },
+    {
+      "id": 442,
+      "text": "What is gymnastics?",
+      "reference_answer": "Gymnastics is a sport combining strength, flexibility, and balance.",
+      "category": "Sports"
+    },
+    {
+      "id": 443,
+      "text": "What is urbanization?",
+      "reference_answer": "Urbanization is the growth of cities as people move from rural areas.",
+      "category": "Social Science"
+    },
+    {
+      "id": 444,
+      "text": "What is 24 × 9?",
+      "reference_answer": "24 × 9 = 216.",
+      "category": "Math"
+    },
+    {
+      "id": 445,
+      "text": "What is folk art?",
+      "reference_answer": "Folk art includes traditional artworks created by local people using cultural themes.",
+      "category": "Art"
+    },
+    {
+      "id": 446,
+      "text": "What is the Bible's Old Testament?",
+      "reference_answer": "The Old Testament is the first part of the Christian Bible, containing ancient scriptures.",
+      "category": "Religion"
+    },
+    {
+      "id": 447,
+      "text": "What is swimming?",
+      "reference_answer": "Swimming is the sport of moving through water using arms and legs.",
+      "category": "Sports"
+    },
+    {
+      "id": 448,
+      "text": "What is citizenship?",
+      "reference_answer": "Citizenship is the legal status of being a member of a nation and having rights and duties.",
+      "category": "Civics"
+    },
+    {
+      "id": 449,
+      "text": "What is photosynthesis?",
+      "reference_answer": "Photosynthesis is the process by which plants convert light into chemical energy.",
+      "category": "Biology"
+    },
+    {
+      "id": 450,
+      "text": "What is Renaissance art?",
+      "reference_answer": "Renaissance art refers to European art from the 14th to 17th centuries known for realism and detail.",
+      "category": "Art"
+    },
+    {
+      "id": 451,
+      "text": "What is Judaism?",
+      "reference_answer": "Judaism is a monotheistic religion originating with the Hebrew people.",
+      "category": "Religion"
+    },
+    {
+      "id": 452,
+      "text": "What is football?",
+      "reference_answer": "Football is a team sport where players aim to score goals using a ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 453,
+      "text": "What is migration?",
+      "reference_answer": "Migration is the movement of people from one place to another.",
+      "category": "Social Science"
+    },
+    {
+      "id": 454,
+      "text": "What is 210 ÷ 7?",
+      "reference_answer": "210 ÷ 7 = 30.",
+      "category": "Math"
+    },
+    {
+      "id": 455,
+      "text": "What is ceramic art?",
+      "reference_answer": "Ceramic art involves creating decorative or functional objects from clay.",
+      "category": "Art"
+    },
+    {
+      "id": 456,
+      "text": "What is salvation?",
+      "reference_answer": "Salvation refers to deliverance from sin and its consequences.",
+      "category": "Religion"
+    },
+    {
+      "id": 457,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a sport where players hit a ball across a table using paddles.",
+      "category": "Sports"
+    },
+    {
+      "id": 458,
+      "text": "What is a constitution?",
+      "reference_answer": "A constitution is a document outlining the principles and laws by which a country is governed.",
+      "category": "Civics"
+    },
+    {
+      "id": 459,
+      "text": "What are chromosomes?",
+      "reference_answer": "Chromosomes are thread-like structures carrying genetic information.",
+      "category": "Biology"
+    },
+    {
+      "id": 460,
+      "text": "What is baroque art?",
+      "reference_answer": "Baroque art is a style known for drama, detail, and grandeur from the 17th century.",
+      "category": "Art"
+    },
+    {
+      "id": 461,
+      "text": "What is a pilgrimage?",
+      "reference_answer": "A pilgrimage is a religious journey to a holy place.",
+      "category": "Religion"
+    },
+    {
+      "id": 462,
+      "text": "What is handball?",
+      "reference_answer": "Handball is a team sport where players pass and throw a ball to score goals.",
+      "category": "Sports"
+    },
+    {
+      "id": 463,
+      "text": "What is caste system?",
+      "reference_answer": "The caste system is a historical social hierarchy based on occupation and birth.",
+      "category": "Social Science"
+    },
+    {
+      "id": 464,
+      "text": "What is 8 × 19?",
+      "reference_answer": "8 × 19 = 152.",
+      "category": "Math"
+    },
+    {
+      "id": 465,
+      "text": "What is visual art?",
+      "reference_answer": "Visual art includes forms like painting, drawing, sculpture, and photography.",
+      "category": "Art"
+    },
+    {
+      "id": 466,
+      "text": "What is monotheism?",
+      "reference_answer": "Monotheism is the belief in one God.",
+      "category": "Religion"
+    },
+    {
+      "id": 467,
+      "text": "What is racing?",
+      "reference_answer": "Racing is a sport where participants compete to finish first in speed-based events.",
+      "category": "Sports"
+    },
+    {
+      "id": 468,
+      "text": "What is the judiciary?",
+      "reference_answer": "The judiciary interprets laws and administers justice.",
+      "category": "Civics"
+    },
+    {
+      "id": 469,
+      "text": "What is respiration?",
+      "reference_answer": "Respiration is the process where organisms convert oxygen and glucose into energy.",
+      "category": "Biology"
+    },
+    {
+      "id": 470,
+      "text": "What is impressionism?",
+      "reference_answer": "Impressionism is an art movement focusing on light, color, and everyday scenes.",
+      "category": "Art"
+    },
+    {
+      "id": 471,
+      "text": "What is atheism?",
+      "reference_answer": "Atheism is the lack of belief in any deity.",
+      "category": "Religion"
+    },
+    {
+      "id": 472,
+      "text": "What is marathon running?",
+      "reference_answer": "Marathon running is a long-distance race of 42.195 km.",
+      "category": "Sports"
+    },
+    {
+      "id": 473,
+      "text": "What is gender equality?",
+      "reference_answer": "Gender equality means equal rights and opportunities for all genders.",
+      "category": "Social Science"
+    },
+    {
+      "id": 474,
+      "text": "What is 17 × 17?",
+      "reference_answer": "17 × 17 = 289.",
+      "category": "Math"
+    },
+    {
+      "id": 475,
+      "text": "What is illustration?",
+      "reference_answer": "Illustration is artwork created to explain or decorate text.",
+      "category": "Art"
+    },
+    {
+      "id": 476,
+      "text": "What is divine revelation?",
+      "reference_answer": "Divine revelation is knowledge revealed by a deity to humans.",
+      "category": "Religion"
+    },
+    {
+      "id": 477,
+      "text": "What is cricket?",
+      "reference_answer": "Cricket is a bat-and-ball sport played between two teams of eleven players.",
+      "category": "Sports"
+    },
+    {
+      "id": 478,
+      "text": "What is diplomacy?",
+      "reference_answer": "Diplomacy is managing relations between countries through negotiation.",
+      "category": "Civics"
+    },
+    {
+      "id": 479,
+      "text": "What is gravity?",
+      "reference_answer": "Gravity is the force that pulls objects toward each other.",
+      "category": "Physics"
+    },
+    {
+      "id": 480,
+      "text": "What is canvas painting?",
+      "reference_answer": "Canvas painting uses pigments on a fabric canvas stretched over a frame.",
+      "category": "Art"
+    },
+    {
+      "id": 481,
+      "text": "What is agnosticism?",
+      "reference_answer": "Agnosticism is the belief that the existence of God is unknown or unknowable.",
+      "category": "Religion"
+    },
+    {
+      "id": 482,
+      "text": "What is volleyball?",
+      "reference_answer": "Volleyball is a sport where teams hit a ball over a net using their hands.",
+      "category": "Sports"
+    },
+    {
+      "id": 483,
+      "text": "What is cultural diffusion?",
+      "reference_answer": "Cultural diffusion is the spread of cultural beliefs from one group to another.",
+      "category": "Social Science"
+    },
+    {
+      "id": 484,
+      "text": "What is 5⁴?",
+      "reference_answer": "5⁴ = 625.",
+      "category": "Math"
+    },
+    {
+      "id": 485,
+      "text": "What is sculpture carving?",
+      "reference_answer": "Sculpture carving removes material from stone or wood to create shapes.",
+      "category": "Art"
+    },
+    {
+      "id": 486,
+      "text": "What is Nirvana in Buddhism?",
+      "reference_answer": "Nirvana is the state of perfect peace and release from suffering.",
+      "category": "Religion"
+    },
+    {
+      "id": 487,
+      "text": "What is karate?",
+      "reference_answer": "Karate is a martial art focused on striking techniques.",
+      "category": "Sports"
+    },
+    {
+      "id": 488,
+      "text": "What is federalism?",
+      "reference_answer": "Federalism divides powers between national and regional governments.",
+      "category": "Civics"
+    },
+    {
+      "id": 489,
+      "text": "What is heat?",
+      "reference_answer": "Heat is energy transferred between substances due to temperature difference.",
+      "category": "Physics"
+    },
+    {
+      "id": 490,
+      "text": "What is oil pastels art?",
+      "reference_answer": "Oil pastel art uses sticks made of pigment and oil binders to create vibrant drawings.",
+      "category": "Art"
+    },
+    {
+      "id": 491,
+      "text": "What is monasticism?",
+      "reference_answer": "Monasticism is a religious way of life involving devotion and simplicity.",
+      "category": "Religion"
+    },
+    {
+      "id": 492,
+      "text": "What is javelin throw?",
+      "reference_answer": "Javelin throw is an athletics event where competitors throw a spear-like object.",
+      "category": "Sports"
+    },
+    {
+      "id": 493,
+      "text": "What is social mobility?",
+      "reference_answer": "Social mobility is movement between different social classes.",
+      "category": "Social Science"
+    },
+    {
+      "id": 494,
+      "text": "What is 72 ÷ 6?",
+      "reference_answer": "72 ÷ 6 = 12.",
+      "category": "Math"
+    },
+    {
+      "id": 495,
+      "text": "What is printmaking?",
+      "reference_answer": "Printmaking creates artworks by transferring ink from a surface to paper.",
+      "category": "Art"
+    },
+    {
+      "id": 496,
+      "text": "What is resurrection in Christianity?",
+      "reference_answer": "Resurrection refers to Jesus rising from the dead on Easter Sunday.",
+      "category": "Religion"
+    },
+    {
+      "id": 497,
+      "text": "What is surfing?",
+      "reference_answer": "Surfing is a water sport where athletes ride waves on a surfboard.",
+      "category": "Sports"
+    },
+    {
+      "id": 498,
+      "text": "What is democracy?",
+      "reference_answer": "Democracy is a government system where leaders are elected by the people.",
+      "category": "Civics"
+    },
+    {
+      "id": 499,
+      "text": "What is a molecule?",
+      "reference_answer": "A molecule is two or more atoms bonded together.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 500,
+      "text": "What is photography?",
+      "reference_answer": "Photography is creating images using a camera.",
+      "category": "Art"
+    },
+    {
+      "id": 501,
+      "text": "What is the capital of Sweden?",
+      "reference_answer": "The capital of Sweden is Stockholm.",
+      "category": "Geography"
+    },
+    {
+      "id": 502,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the central holy text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 503,
+      "text": "What sport is played at Wimbledon?",
+      "reference_answer": "Tennis is played at Wimbledon.",
+      "category": "Sports"
+    },
+    {
+      "id": 504,
+      "text": "What is satire in literature?",
+      "reference_answer": "Satire uses humor or irony to criticize societal issues.",
+      "category": "Literature"
+    },
+    {
+      "id": 505,
+      "text": "What is 32 × 15?",
+      "reference_answer": "32 × 15 = 480.",
+      "category": "Math"
+    },
+    {
+      "id": 506,
+      "text": "What is the atmosphere?",
+      "reference_answer": "The atmosphere is the layer of gases surrounding Earth.",
+      "category": "Science"
+    },
+    {
+      "id": 507,
+      "text": "What is a mosque?",
+      "reference_answer": "A mosque is a place where Muslims gather to worship.",
+      "category": "Religion"
+    },
+    {
+      "id": 508,
+      "text": "What is sprinting?",
+      "reference_answer": "Sprinting is running at full speed over a short distance.",
+      "category": "Sports"
+    },
+    {
+      "id": 509,
+      "text": "What is social harmony?",
+      "reference_answer": "Social harmony means peaceful and cooperative coexistence within society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 510,
+      "text": "What is sculpture?",
+      "reference_answer": "Sculpture is the art of creating three-dimensional forms from materials like stone or clay.",
+      "category": "Art"
+    },
+    {
+      "id": 511,
+      "text": "What is Buddhism?",
+      "reference_answer": "Buddhism is a religion founded by Siddhartha Gautama emphasizing enlightenment and compassion.",
+      "category": "Religion"
+    },
+    {
+      "id": 512,
+      "text": "What is a penalty shootout?",
+      "reference_answer": "A penalty shootout is used in football to decide a match after a draw.",
+      "category": "Sports"
+    },
+    {
+      "id": 513,
+      "text": "What is cultural identity?",
+      "reference_answer": "Cultural identity is a sense of belonging to a particular culture or group.",
+      "category": "Social Science"
+    },
+    {
+      "id": 514,
+      "text": "What is 420 ÷ 6?",
+      "reference_answer": "420 ÷ 6 = 70.",
+      "category": "Math"
+    },
+    {
+      "id": 515,
+      "text": "What is watercolor painting?",
+      "reference_answer": "Watercolor painting uses pigments mixed with water applied on paper.",
+      "category": "Art"
+    },
+    {
+      "id": 516,
+      "text": "What is salvation?",
+      "reference_answer": "Salvation refers to deliverance from sin and spiritual death in many religions.",
+      "category": "Religion"
+    },
+    {
+      "id": 517,
+      "text": "What is archery?",
+      "reference_answer": "Archery is a sport where athletes shoot arrows at a target using a bow.",
+      "category": "Sports"
+    },
+    {
+      "id": 518,
+      "text": "What is voting?",
+      "reference_answer": "Voting is the process of choosing leaders or making decisions in a democracy.",
+      "category": "Civics"
+    },
+    {
+      "id": 519,
+      "text": "What is friction?",
+      "reference_answer": "Friction is the force resisting motion between two surfaces.",
+      "category": "Physics"
+    },
+    {
+      "id": 520,
+      "text": "What is modern dance?",
+      "reference_answer": "Modern dance is a free and expressive dance style that emerged in the 20th century.",
+      "category": "Art"
+    },
+    {
+      "id": 521,
+      "text": "What is Christianity?",
+      "reference_answer": "Christianity is a religion based on the teachings of Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 522,
+      "text": "What is a free kick in football?",
+      "reference_answer": "A free kick is awarded after a foul and allows a player to kick the ball without opposition.",
+      "category": "Sports"
+    },
+    {
+      "id": 523,
+      "text": "What is globalization?",
+      "reference_answer": "Globalization is the increasing interconnectedness of nations through trade, communication, and culture.",
+      "category": "Social Science"
+    },
+    {
+      "id": 524,
+      "text": "What is 15% of 200?",
+      "reference_answer": "15% of 200 = 30.",
+      "category": "Math"
+    },
+    {
+      "id": 525,
+      "text": "What is portrait photography?",
+      "reference_answer": "Portrait photography focuses on capturing the personality of a person through their image.",
+      "category": "Art"
+    },
+    {
+      "id": 526,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy book of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 527,
+      "text": "What is the NBA?",
+      "reference_answer": "The NBA (National Basketball Association) is the top professional basketball league in the world.",
+      "category": "Sports"
+    },
+    {
+      "id": 528,
+      "text": "What is the rule of law?",
+      "reference_answer": "The rule of law means that all individuals are subject to the law equally.",
+      "category": "Civics"
+    },
+    {
+      "id": 529,
+      "text": "What is a cell nucleus?",
+      "reference_answer": "The nucleus is the control center of a cell containing DNA.",
+      "category": "Biology"
+    },
+    {
+      "id": 530,
+      "text": "What is digital art?",
+      "reference_answer": "Digital art is artwork created using digital tools and technology.",
+      "category": "Art"
+    },
+    {
+      "id": 531,
+      "text": "What is Hinduism?",
+      "reference_answer": "Hinduism is one of the oldest religions, based on the Vedas and originating in India.",
+      "category": "Religion"
+    },
+    {
+      "id": 532,
+      "text": "What is cricket?",
+      "reference_answer": "Cricket is a sport where two teams compete using a bat, ball, and wickets.",
+      "category": "Sports"
+    },
+    {
+      "id": 533,
+      "text": "What is social justice?",
+      "reference_answer": "Social justice is the fair distribution of resources, rights, and opportunities.",
+      "category": "Social Science"
+    },
+    {
+      "id": 534,
+      "text": "What is 56 × 7?",
+      "reference_answer": "56 × 7 = 392.",
+      "category": "Math"
+    },
+    {
+      "id": 535,
+      "text": "What is a comic strip?",
+      "reference_answer": "A comic strip is a sequence of drawings that tell a story using dialogue and illustrations.",
+      "category": "Art"
+    },
+    {
+      "id": 536,
+      "text": "What is fasting?",
+      "reference_answer": "Fasting is abstaining from food or drink for religious or spiritual reasons.",
+      "category": "Religion"
+    },
+    {
+      "id": 537,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played individually or in pairs on a rectangular court.",
+      "category": "Sports"
+    },
+    {
+      "id": 538,
+      "text": "What is a citizen?",
+      "reference_answer": "A citizen is a legally recognized member of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 539,
+      "text": "What is condensation?",
+      "reference_answer": "Condensation is the process through which gas turns into liquid.",
+      "category": "Science"
+    },
+    {
+      "id": 540,
+      "text": "What is charcoal art?",
+      "reference_answer": "Charcoal art uses charred sticks of wood to create rich, dark drawings.",
+      "category": "Art"
+    },
+    {
+      "id": 541,
+      "text": "What is Ramadan in Islam?",
+      "reference_answer": "Ramadan is a month of fasting, prayer, and spiritual reflection observed by Muslims.",
+      "category": "Religion"
+    },
+    {
+      "id": 542,
+      "text": "What is wrestling?",
+      "reference_answer": "Wrestling is a combat sport involving grappling techniques.",
+      "category": "Sports"
+    },
+    {
+      "id": 543,
+      "text": "What is a community?",
+      "reference_answer": "A community is a group of people living together or sharing common interests.",
+      "category": "Social Science"
+    },
+    {
+      "id": 544,
+      "text": "What is 11 × 25?",
+      "reference_answer": "11 × 25 = 275.",
+      "category": "Math"
+    },
+    {
+      "id": 545,
+      "text": "What is impressionism?",
+      "reference_answer": "Impressionism is an art style focusing on light, color, and everyday subjects.",
+      "category": "Art"
+    },
+    {
+      "id": 546,
+      "text": "What is a temple?",
+      "reference_answer": "A temple is a place of worship in religions such as Hinduism and Buddhism.",
+      "category": "Religion"
+    },
+    {
+      "id": 547,
+      "text": "What is badminton?",
+      "reference_answer": "Badminton is a racquet sport played with a shuttlecock.",
+      "category": "Sports"
+    },
+    {
+      "id": 548,
+      "text": "What is government?",
+      "reference_answer": "Government is a system or group governing an organized community or country.",
+      "category": "Civics"
+    },
+    {
+      "id": 549,
+      "text": "What is the ozone layer?",
+      "reference_answer": "The ozone layer is a region of Earth's atmosphere that absorbs harmful UV radiation.",
+      "category": "Environment"
+    },
+    {
+      "id": 550,
+      "text": "What is calligraphy?",
+      "reference_answer": "Calligraphy is the art of beautiful handwriting.",
+      "category": "Art"
+    },
+    {
+      "id": 551,
+      "text": "What is Zen Buddhism?",
+      "reference_answer": "Zen Buddhism emphasizes meditation and direct insight.",
+      "category": "Religion"
+    },
+    {
+      "id": 552,
+      "text": "What is volleyball?",
+      "reference_answer": "Volleyball is a sport where teams hit a ball over a high net.",
+      "category": "Sports"
+    },
+    {
+      "id": 553,
+      "text": "What is empathy?",
+      "reference_answer": "Empathy is the ability to understand and share the feelings of others.",
+      "category": "Social Science"
+    },
+    {
+      "id": 554,
+      "text": "What is 7³?",
+      "reference_answer": "7³ = 343.",
+      "category": "Math"
+    },
+    {
+      "id": 555,
+      "text": "What is pottery?",
+      "reference_answer": "Pottery is the craft of shaping clay objects and firing them in a kiln.",
+      "category": "Art"
+    },
+    {
+      "id": 556,
+      "text": "What is the Rosary?",
+      "reference_answer": "The Rosary is a string of prayer beads used by Christians for prayer.",
+      "category": "Religion"
+    },
+    {
+      "id": 557,
+      "text": "What is kabaddi?",
+      "reference_answer": "Kabaddi is a contact sport where players raid the opponent's side while holding their breath.",
+      "category": "Sports"
+    },
+    {
+      "id": 558,
+      "text": "What is a constitution?",
+      "reference_answer": "A constitution defines the laws and principles by which a country is governed.",
+      "category": "Civics"
+    },
+    {
+      "id": 559,
+      "text": "What is DNA?",
+      "reference_answer": "DNA is the molecule that carries genetic information.",
+      "category": "Biology"
+    },
+    {
+      "id": 560,
+      "text": "What is origami?",
+      "reference_answer": "Origami is the Japanese art of folding paper into decorative shapes.",
+      "category": "Art"
+    },
+    {
+      "id": 561,
+      "text": "What is Jainism?",
+      "reference_answer": "Jainism is an ancient Indian religion emphasizing nonviolence and truth.",
+      "category": "Religion"
+    },
+    {
+      "id": 562,
+      "text": "What is rugby?",
+      "reference_answer": "Rugby is a contact team sport played with an oval ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 563,
+      "text": "What is a caste system?",
+      "reference_answer": "A caste system is a social hierarchy based on birth or occupation.",
+      "category": "Social Science"
+    },
+    {
+      "id": 564,
+      "text": "What is 42 × 6?",
+      "reference_answer": "42 × 6 = 252.",
+      "category": "Math"
+    },
+    {
+      "id": 565,
+      "text": "What is mural art?",
+      "reference_answer": "Mural art involves painting directly onto walls or large surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 566,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 567,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a sport involving hitting a ball back and forth across a small table.",
+      "category": "Sports"
+    },
+    {
+      "id": 568,
+      "text": "What is the legislature?",
+      "reference_answer": "The legislature is the branch of government responsible for making laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 569,
+      "text": "What is evolution?",
+      "reference_answer": "Evolution is the process by which species change over time through natural selection.",
+      "category": "Biology"
+    },
+    {
+      "id": 570,
+      "text": "What is 3D art?",
+      "reference_answer": "3D art includes sculptural and digital works that have depth.",
+      "category": "Art"
+    },
+    {
+      "id": 571,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy scripture of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 572,
+      "text": "What is swimming?",
+      "reference_answer": "Swimming is a water-based sport using coordinated body movements.",
+      "category": "Sports"
+    },
+    {
+      "id": 573,
+      "text": "What is urbanization?",
+      "reference_answer": "Urbanization is the growth of cities due to migration and development.",
+      "category": "Social Science"
+    },
+    {
+      "id": 574,
+      "text": "What is 19 × 14?",
+      "reference_answer": "19 × 14 = 266.",
+      "category": "Math"
+    },
+    {
+      "id": 575,
+      "text": "What is landscape art?",
+      "reference_answer": "Landscape art depicts outdoor scenery such as mountains, rivers, or forests.",
+      "category": "Art"
+    },
+    {
+      "id": 576,
+      "text": "What is resurrection?",
+      "reference_answer": "Resurrection refers to rising from the dead, especially in Christian belief.",
+      "category": "Religion"
+    },
+    {
+      "id": 577,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a sport where players hit a pitched ball and run bases to score.",
+      "category": "Sports"
+    },
+    {
+      "id": 578,
+      "text": "What is the executive branch?",
+      "reference_answer": "The executive branch enforces and carries out laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 579,
+      "text": "What is mitosis?",
+      "reference_answer": "Mitosis is the process of cell division resulting in two identical cells.",
+      "category": "Biology"
+    },
+    {
+      "id": 580,
+      "text": "What is graffiti art?",
+      "reference_answer": "Graffiti art is street art created using spray paint on public surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 581,
+      "text": "What is monotheism?",
+      "reference_answer": "Monotheism is belief in a single God.",
+      "category": "Religion"
+    },
+    {
+      "id": 582,
+      "text": "What is boxing?",
+      "reference_answer": "Boxing is a combat sport where two fighters punch within a ring.",
+      "category": "Sports"
+    },
+    {
+      "id": 583,
+      "text": "What is feminism?",
+      "reference_answer": "Feminism is the movement advocating for equal rights for women.",
+      "category": "Social Science"
+    },
+    {
+      "id": 584,
+      "text": "What is 20% of 300?",
+      "reference_answer": "20% of 300 = 60.",
+      "category": "Math"
+    },
+    {
+      "id": 585,
+      "text": "What is classical sculpture?",
+      "reference_answer": "Classical sculpture refers to ancient Greek and Roman sculptural styles known for realism.",
+      "category": "Art"
+    },
+    {
+      "id": 586,
+      "text": "What is a mantra?",
+      "reference_answer": "A mantra is a sacred phrase repeated during meditation.",
+      "category": "Religion"
+    },
+    {
+      "id": 587,
+      "text": "What is fencing?",
+      "reference_answer": "Fencing is a sport where competitors score points with swords.",
+      "category": "Sports"
+    },
+    {
+      "id": 588,
+      "text": "What are fundamental rights?",
+      "reference_answer": "Fundamental rights are basic human rights guaranteed by a constitution.",
+      "category": "Civics"
+    },
+    {
+      "id": 589,
+      "text": "What is the water cycle?",
+      "reference_answer": "The water cycle describes how water evaporates, condenses, and precipitates.",
+      "category": "Science"
+    },
+    {
+      "id": 590,
+      "text": "What is collage art?",
+      "reference_answer": "Collage art combines different materials like paper and fabric to create a composition.",
+      "category": "Art"
+    },
+    {
+      "id": 591,
+      "text": "What is agnosticism?",
+      "reference_answer": "Agnosticism is the belief that the existence of God is unknown or unknowable.",
+      "category": "Religion"
+    },
+    {
+      "id": 592,
+      "text": "What is the Tour de France?",
+      "reference_answer": "The Tour de France is the world’s most famous professional cycling race.",
+      "category": "Sports"
+    },
+    {
+      "id": 593,
+      "text": "What is anthropology?",
+      "reference_answer": "Anthropology is the study of human societies, cultures, and evolution.",
+      "category": "Social Science"
+    },
+    {
+      "id": 594,
+      "text": "What is 144 ÷ 12?",
+      "reference_answer": "144 ÷ 12 = 12.",
+      "category": "Math"
+    },
+    {
+      "id": 595,
+      "text": "What is oil painting?",
+      "reference_answer": "Oil painting uses pigments mixed with oil to create artworks on canvas.",
+      "category": "Art"
+    },
+    {
+      "id": 596,
+      "text": "What is Dharma?",
+      "reference_answer": "In Hinduism and Buddhism, Dharma refers to moral duty and righteousness.",
+      "category": "Religion"
+    },
+    {
+      "id": 597,
+      "text": "What is judo?",
+      "reference_answer": "Judo is a martial art focused on throws and pins.",
+      "category": "Sports"
+    },
+    {
+      "id": 598,
+      "text": "What is public administration?",
+      "reference_answer": "Public administration is the implementation of government policies and programs.",
+      "category": "Civics"
+    },
+    {
+      "id": 599,
+      "text": "What is a galaxy?",
+      "reference_answer": "A galaxy is a massive collection of stars, dust, and gas bound together by gravity.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 600,
+      "text": "What is acrylic painting?",
+      "reference_answer": "Acrylic painting uses fast-drying acrylic paints to create colorful artworks.",
+      "category": "Art"
+    },
+    {
+      "id": 601,
+      "text": "What is the capital of Austria?",
+      "reference_answer": "The capital of Austria is Vienna.",
+      "category": "Geography"
+    },
+    {
+      "id": 602,
+      "text": "What is the Holy Bible?",
+      "reference_answer": "The Holy Bible is the sacred scripture of Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 603,
+      "text": "What sport uses a shuttlecock?",
+      "reference_answer": "Badminton uses a shuttlecock.",
+      "category": "Sports"
+    },
+    {
+      "id": 604,
+      "text": "What is a novel?",
+      "reference_answer": "A novel is a long fictional narrative written in prose.",
+      "category": "Literature"
+    },
+    {
+      "id": 605,
+      "text": "What is 48 × 13?",
+      "reference_answer": "48 × 13 = 624.",
+      "category": "Math"
+    },
+    {
+      "id": 606,
+      "text": "What is photosynthesis?",
+      "reference_answer": "Photosynthesis is the process by which plants convert sunlight into energy.",
+      "category": "Biology"
+    },
+    {
+      "id": 607,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy book of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 608,
+      "text": "What is rugby?",
+      "reference_answer": "Rugby is a contact sport played with an oval-shaped ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 609,
+      "text": "What is a democracy?",
+      "reference_answer": "A democracy is a form of government where people elect their leaders.",
+      "category": "Civics"
+    },
+    {
+      "id": 610,
+      "text": "What is classical music?",
+      "reference_answer": "Classical music refers to Western art music composed over centuries.",
+      "category": "Music"
+    },
+    {
+      "id": 611,
+      "text": "What is Hinduism?",
+      "reference_answer": "Hinduism is one of the world's oldest religions, originating in India.",
+      "category": "Religion"
+    },
+    {
+      "id": 612,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a bat-and-ball sport played between two teams.",
+      "category": "Sports"
+    },
+    {
+      "id": 613,
+      "text": "What is culture?",
+      "reference_answer": "Culture includes the beliefs, customs, and traditions of a group.",
+      "category": "Social Science"
+    },
+    {
+      "id": 614,
+      "text": "What is 95 ÷ 5?",
+      "reference_answer": "95 ÷ 5 = 19.",
+      "category": "Math"
+    },
+    {
+      "id": 615,
+      "text": "What is oil painting?",
+      "reference_answer": "Oil painting uses pigments mixed with oil to create artworks.",
+      "category": "Art"
+    },
+    {
+      "id": 616,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the central religious text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 617,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a sport where players hit a lightweight ball back and forth across a table.",
+      "category": "Sports"
+    },
+    {
+      "id": 618,
+      "text": "What is justice?",
+      "reference_answer": "Justice means fairness and the protection of rights.",
+      "category": "Civics"
+    },
+    {
+      "id": 619,
+      "text": "What is gravity?",
+      "reference_answer": "Gravity is a force that attracts objects toward one another.",
+      "category": "Physics"
+    },
+    {
+      "id": 620,
+      "text": "What is manga art?",
+      "reference_answer": "Manga art is a Japanese style of comic and graphic illustration.",
+      "category": "Art"
+    },
+    {
+      "id": 621,
+      "text": "What is Sikhism?",
+      "reference_answer": "Sikhism is a monotheistic religion founded by Guru Nanak in India.",
+      "category": "Religion"
+    },
+    {
+      "id": 622,
+      "text": "What is swimming?",
+      "reference_answer": "Swimming is a sport of moving through water using the limbs.",
+      "category": "Sports"
+    },
+    {
+      "id": 623,
+      "text": "What is anthropology?",
+      "reference_answer": "Anthropology is the study of humans and their societies.",
+      "category": "Social Science"
+    },
+    {
+      "id": 624,
+      "text": "What is 14 × 17?",
+      "reference_answer": "14 × 17 = 238.",
+      "category": "Math"
+    },
+    {
+      "id": 625,
+      "text": "What is sculpture?",
+      "reference_answer": "Sculpture is the art of shaping materials like stone or clay into three-dimensional works.",
+      "category": "Art"
+    },
+    {
+      "id": 626,
+      "text": "What is Easter?",
+      "reference_answer": "Easter is a Christian holiday celebrating the resurrection of Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 627,
+      "text": "What is football?",
+      "reference_answer": "Football is a team sport where players score goals using a ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 628,
+      "text": "What are human rights?",
+      "reference_answer": "Human rights are basic freedoms and protections for all individuals.",
+      "category": "Civics"
+    },
+    {
+      "id": 629,
+      "text": "What are atoms?",
+      "reference_answer": "Atoms are the basic units of matter.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 630,
+      "text": "What is origami?",
+      "reference_answer": "Origami is the Japanese art of folding paper into decorative shapes.",
+      "category": "Art"
+    },
+    {
+      "id": 631,
+      "text": "What is Islam?",
+      "reference_answer": "Islam is a monotheistic religion based on the teachings of Prophet Muhammad (PBUH).",
+      "category": "Religion"
+    },
+    {
+      "id": 632,
+      "text": "What is a marathon?",
+      "reference_answer": "A marathon is a long-distance race of 42.195 kilometers.",
+      "category": "Sports"
+    },
+    {
+      "id": 633,
+      "text": "What is sociology?",
+      "reference_answer": "Sociology is the study of social relationships and institutions.",
+      "category": "Social Science"
+    },
+    {
+      "id": 634,
+      "text": "What is 21 × 21?",
+      "reference_answer": "21 × 21 = 441.",
+      "category": "Math"
+    },
+    {
+      "id": 635,
+      "text": "What is acrylic painting?",
+      "reference_answer": "Acrylic painting uses fast-drying acrylic paint made from pigments suspended in acrylic resin.",
+      "category": "Art"
+    },
+    {
+      "id": 636,
+      "text": "What is reincarnation?",
+      "reference_answer": "Reincarnation is the belief that the soul is reborn in another body.",
+      "category": "Religion"
+    },
+    {
+      "id": 637,
+      "text": "What is fencing?",
+      "reference_answer": "Fencing is a sport of swordplay using foils, épées, or sabres.",
+      "category": "Sports"
+    },
+    {
+      "id": 638,
+      "text": "What is the judiciary?",
+      "reference_answer": "The judiciary is the branch of government that interprets laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 639,
+      "text": "What is inertia?",
+      "reference_answer": "Inertia is an object's resistance to change in its motion.",
+      "category": "Physics"
+    },
+    {
+      "id": 640,
+      "text": "What is calligraphy?",
+      "reference_answer": "Calligraphy is the art of decorative handwriting.",
+      "category": "Art"
+    },
+    {
+      "id": 641,
+      "text": "What is Jainism?",
+      "reference_answer": "Jainism is an ancient Indian religion focusing on nonviolence and truth.",
+      "category": "Religion"
+    },
+    {
+      "id": 642,
+      "text": "What is volleyball?",
+      "reference_answer": "Volleyball is a sport where two teams hit a ball over a net.",
+      "category": "Sports"
+    },
+    {
+      "id": 643,
+      "text": "What is cultural diversity?",
+      "reference_answer": "Cultural diversity refers to the presence of multiple cultures within a society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 644,
+      "text": "What is 300 ÷ 12?",
+      "reference_answer": "300 ÷ 12 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 645,
+      "text": "What is a mural?",
+      "reference_answer": "A mural is a large artwork painted on a wall or ceiling.",
+      "category": "Art"
+    },
+    {
+      "id": 646,
+      "text": "What is the concept of karma?",
+      "reference_answer": "Karma means a person's actions influence their future.",
+      "category": "Religion"
+    },
+    {
+      "id": 647,
+      "text": "What is hockey?",
+      "reference_answer": "Hockey is a sport where players use sticks to hit a puck or ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 648,
+      "text": "What is the constitution?",
+      "reference_answer": "A constitution is a document outlining the fundamental laws of a nation.",
+      "category": "Civics"
+    },
+    {
+      "id": 649,
+      "text": "What is the atmosphere made of?",
+      "reference_answer": "The atmosphere consists mainly of nitrogen, oxygen, and trace gases.",
+      "category": "Science"
+    },
+    {
+      "id": 650,
+      "text": "What is graffiti?",
+      "reference_answer": "Graffiti is street art painted on public surfaces using spray paint.",
+      "category": "Art"
+    },
+    {
+      "id": 651,
+      "text": "What is the Bible's New Testament?",
+      "reference_answer": "The New Testament contains the teachings of Jesus and early Christian writings.",
+      "category": "Religion"
+    },
+    {
+      "id": 652,
+      "text": "What is judo?",
+      "reference_answer": "Judo is a martial art focused on throws and grappling.",
+      "category": "Sports"
+    },
+    {
+      "id": 653,
+      "text": "What is social reform?",
+      "reference_answer": "Social reform refers to changes aimed at improving society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 654,
+      "text": "What is 18 × 28?",
+      "reference_answer": "18 × 28 = 504.",
+      "category": "Math"
+    },
+    {
+      "id": 655,
+      "text": "What is sculpture carving?",
+      "reference_answer": "Sculpture carving involves removing material from stone or wood to create art.",
+      "category": "Art"
+    },
+    {
+      "id": 656,
+      "text": "What is pilgrimage?",
+      "reference_answer": "A pilgrimage is a religious journey to a holy place.",
+      "category": "Religion"
+    },
+    {
+      "id": 657,
+      "text": "What is track and field?",
+      "reference_answer": "Track and field includes running, jumping, and throwing events.",
+      "category": "Sports"
+    },
+    {
+      "id": 658,
+      "text": "What is the executive branch?",
+      "reference_answer": "The executive branch enforces laws and runs the government.",
+      "category": "Civics"
+    },
+    {
+      "id": 659,
+      "text": "What is a proton?",
+      "reference_answer": "A proton is a positively charged particle in an atom's nucleus.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 660,
+      "text": "What is digital illustration?",
+      "reference_answer": "Digital illustration uses software to create artistic images.",
+      "category": "Art"
+    },
+    {
+      "id": 661,
+      "text": "What is agnosticism?",
+      "reference_answer": "Agnosticism is the belief that nothing is known about the existence of God.",
+      "category": "Religion"
+    },
+    {
+      "id": 662,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played on a rectangular court.",
+      "category": "Sports"
+    },
+    {
+      "id": 663,
+      "text": "What is ethnicity?",
+      "reference_answer": "Ethnicity refers to shared cultural traits, language, and heritage.",
+      "category": "Social Science"
+    },
+    {
+      "id": 664,
+      "text": "What is 520 − 185?",
+      "reference_answer": "520 − 185 = 335.",
+      "category": "Math"
+    },
+    {
+      "id": 665,
+      "text": "What is contemporary art?",
+      "reference_answer": "Contemporary art refers to modern artistic work created in the late 20th and 21st centuries.",
+      "category": "Art"
+    },
+    {
+      "id": 666,
+      "text": "What is Buddhism?",
+      "reference_answer": "Buddhism is a religion focused on attaining enlightenment through mindfulness.",
+      "category": "Religion"
+    },
+    {
+      "id": 667,
+      "text": "What is gymnastics?",
+      "reference_answer": "Gymnastics is a sport involving balance, strength, and agility.",
+      "category": "Sports"
+    },
+    {
+      "id": 668,
+      "text": "What is public policy?",
+      "reference_answer": "Public policy refers to government decisions and actions addressing public issues.",
+      "category": "Civics"
+    },
+    {
+      "id": 669,
+      "text": "What is photosynthesis?",
+      "reference_answer": "Photosynthesis is the process by which plants convert sunlight into energy.",
+      "category": "Biology"
+    },
+    {
+      "id": 670,
+      "text": "What is mosaic art?",
+      "reference_answer": "Mosaic art creates images using small pieces of glass, stone, or tile.",
+      "category": "Art"
+    },
+    {
+      "id": 671,
+      "text": "What is a mantra?",
+      "reference_answer": "A mantra is a sacred sound or phrase repeated during meditation.",
+      "category": "Religion"
+    },
+    {
+      "id": 672,
+      "text": "What is cycling?",
+      "reference_answer": "Cycling is a sport and activity involving riding bicycles.",
+      "category": "Sports"
+    },
+    {
+      "id": 673,
+      "text": "What is globalization?",
+      "reference_answer": "Globalization is the interconnection of countries through trade, culture, and technology.",
+      "category": "Social Science"
+    },
+    {
+      "id": 674,
+      "text": "What is 38 × 12?",
+      "reference_answer": "38 × 12 = 456.",
+      "category": "Math"
+    },
+    {
+      "id": 675,
+      "text": "What is illustration?",
+      "reference_answer": "Illustration is visual imagery created to clarify or decorate text.",
+      "category": "Art"
+    },
+    {
+      "id": 676,
+      "text": "What is the Ten Commandments?",
+      "reference_answer": "The Ten Commandments are biblical laws given to Moses in Judaism and Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 677,
+      "text": "What is rowing?",
+      "reference_answer": "Rowing is a sport where athletes propel boats using oars.",
+      "category": "Sports"
+    },
+    {
+      "id": 678,
+      "text": "What is taxation?",
+      "reference_answer": "Taxation is the process of collecting money from citizens to fund public services.",
+      "category": "Civics"
+    },
+    {
+      "id": 679,
+      "text": "What is a gene?",
+      "reference_answer": "A gene is a segment of DNA responsible for hereditary traits.",
+      "category": "Biology"
+    },
+    {
+      "id": 680,
+      "text": "What is sketching?",
+      "reference_answer": "Sketching is creating quick drawings to capture basic shapes and ideas.",
+      "category": "Art"
+    },
+    {
+      "id": 681,
+      "text": "What is Buddhism's Eightfold Path?",
+      "reference_answer": "The Eightfold Path is a guide to ethical and mental development in Buddhism.",
+      "category": "Religion"
+    },
+    {
+      "id": 682,
+      "text": "What is kayaking?",
+      "reference_answer": "Kayaking is a water sport where a person paddles a small boat called a kayak.",
+      "category": "Sports"
+    },
+    {
+      "id": 683,
+      "text": "What is a nation?",
+      "reference_answer": "A nation is a group of people sharing common identity, culture, or history.",
+      "category": "Social Science"
+    },
+    {
+      "id": 684,
+      "text": "What is 39 × 9?",
+      "reference_answer": "39 × 9 = 351.",
+      "category": "Math"
+    },
+    {
+      "id": 685,
+      "text": "What is ceramic art?",
+      "reference_answer": "Ceramic art uses clay to create sculptures and decorative items.",
+      "category": "Art"
+    },
+    {
+      "id": 686,
+      "text": "What is the Holy Trinity?",
+      "reference_answer": "The Holy Trinity refers to the Father, the Son, and the Holy Spirit in Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 687,
+      "text": "What is archery?",
+      "reference_answer": "Archery is a sport where players shoot arrows using a bow.",
+      "category": "Sports"
+    },
+    {
+      "id": 688,
+      "text": "What is diplomacy?",
+      "reference_answer": "Diplomacy is managing international relations through negotiation.",
+      "category": "Civics"
+    },
+    {
+      "id": 689,
+      "text": "What is the solar system?",
+      "reference_answer": "The solar system consists of the Sun and the celestial bodies orbiting it.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 690,
+      "text": "What is ink painting?",
+      "reference_answer": "Ink painting uses black ink to create detailed artistic works, common in East Asia.",
+      "category": "Art"
+    },
+    {
+      "id": 691,
+      "text": "What is meditation?",
+      "reference_answer": "Meditation is a practice of focused attention and mindfulness to achieve calmness.",
+      "category": "Religion"
+    },
+    {
+      "id": 692,
+      "text": "What is baseball pitching?",
+      "reference_answer": "Baseball pitching is throwing the ball toward the batter to begin a play.",
+      "category": "Sports"
+    },
+    {
+      "id": 693,
+      "text": "What is a society?",
+      "reference_answer": "A society is a group of individuals living together with shared norms and values.",
+      "category": "Social Science"
+    },
+    {
+      "id": 694,
+      "text": "What is 1000 ÷ 25?",
+      "reference_answer": "1000 ÷ 25 = 40.",
+      "category": "Math"
+    },
+    {
+      "id": 695,
+      "text": "What is cubism?",
+      "reference_answer": "Cubism is an art style using geometric shapes to depict subjects.",
+      "category": "Art"
+    },
+    {
+      "id": 696,
+      "text": "What is Lent?",
+      "reference_answer": "Lent is a Christian period of fasting and reflection observed before Easter.",
+      "category": "Religion"
+    },
+    {
+      "id": 697,
+      "text": "What is tennis doubles?",
+      "reference_answer": "Tennis doubles is played between two teams of two players each.",
+      "category": "Sports"
+    },
+    {
+      "id": 698,
+      "text": "What is civil liberty?",
+      "reference_answer": "Civil liberties are fundamental freedoms protected by law, such as freedom of speech.",
+      "category": "Civics"
+    },
+    {
+      "id": 699,
+      "text": "What are enzymes?",
+      "reference_answer": "Enzymes are proteins that speed up chemical reactions in the body.",
+      "category": "Biology"
+    },
+    {
+      "id": 700,
+      "text": "What is pastel art?",
+      "reference_answer": "Pastel art uses soft, colorful sticks to create vibrant drawings.",
+      "category": "Art"
+    },
+    {
+      "id": 701,
+      "text": "What is the capital of Denmark?",
+      "reference_answer": "The capital of Denmark is Copenhagen.",
+      "category": "Geography"
+    },
+    {
+      "id": 702,
+      "text": "What is the Bhagavad Gita?",
+      "reference_answer": "The Bhagavad Gita is a Hindu scripture containing a conversation between Krishna and Arjuna.",
+      "category": "Religion"
+    },
+    {
+      "id": 703,
+      "text": "What is a hat-trick in cricket?",
+      "reference_answer": "A hat-trick in cricket occurs when a bowler takes three wickets in three consecutive deliveries.",
+      "category": "Sports"
+    },
+    {
+      "id": 704,
+      "text": "What is a fable?",
+      "reference_answer": "A fable is a short story that teaches a moral, often using animals as characters.",
+      "category": "Literature"
+    },
+    {
+      "id": 705,
+      "text": "What is 67 × 8?",
+      "reference_answer": "67 × 8 = 536.",
+      "category": "Math"
+    },
+    {
+      "id": 706,
+      "text": "What is evaporation?",
+      "reference_answer": "Evaporation is the process where liquid changes into vapor.",
+      "category": "Science"
+    },
+    {
+      "id": 707,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 708,
+      "text": "What is sprinting?",
+      "reference_answer": "Sprinting is running at high speed over a short distance.",
+      "category": "Sports"
+    },
+    {
+      "id": 709,
+      "text": "What is democracy?",
+      "reference_answer": "Democracy is a system of government where leaders are elected by the people.",
+      "category": "Civics"
+    },
+    {
+      "id": 710,
+      "text": "What is mosaic art?",
+      "reference_answer": "Mosaic art uses small pieces of material to create images.",
+      "category": "Art"
+    },
+    {
+      "id": 711,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy book of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 712,
+      "text": "What is long jump?",
+      "reference_answer": "Long jump is an athletics event where athletes jump as far as possible from a takeoff point.",
+      "category": "Sports"
+    },
+    {
+      "id": 713,
+      "text": "What is social behavior?",
+      "reference_answer": "Social behavior refers to how individuals interact within groups.",
+      "category": "Social Science"
+    },
+    {
+      "id": 714,
+      "text": "What is 152 ÷ 8?",
+      "reference_answer": "152 ÷ 8 = 19.",
+      "category": "Math"
+    },
+    {
+      "id": 715,
+      "text": "What is portrait art?",
+      "reference_answer": "Portrait art focuses on depicting a person's face and expression.",
+      "category": "Art"
+    },
+    {
+      "id": 716,
+      "text": "What is monotheism?",
+      "reference_answer": "Monotheism is the belief in one God.",
+      "category": "Religion"
+    },
+    {
+      "id": 717,
+      "text": "What is basketball?",
+      "reference_answer": "Basketball is a sport where players score by shooting a ball through a hoop.",
+      "category": "Sports"
+    },
+    {
+      "id": 718,
+      "text": "What is citizenship?",
+      "reference_answer": "Citizenship is the legal status of being a member of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 719,
+      "text": "What is kinetic energy?",
+      "reference_answer": "Kinetic energy is the energy an object has due to its motion.",
+      "category": "Physics"
+    },
+    {
+      "id": 720,
+      "text": "What is digital photography?",
+      "reference_answer": "Digital photography captures images using electronic sensors.",
+      "category": "Art"
+    },
+    {
+      "id": 721,
+      "text": "What is Passover?",
+      "reference_answer": "Passover is a Jewish holiday celebrating liberation from slavery in Egypt.",
+      "category": "Religion"
+    },
+    {
+      "id": 722,
+      "text": "What is cricket?",
+      "reference_answer": "Cricket is a bat-and-ball sport played between two teams of eleven.",
+      "category": "Sports"
+    },
+    {
+      "id": 723,
+      "text": "What is migration?",
+      "reference_answer": "Migration is the movement of people from one place to another.",
+      "category": "Social Science"
+    },
+    {
+      "id": 724,
+      "text": "What is 9²?",
+      "reference_answer": "9² = 81.",
+      "category": "Math"
+    },
+    {
+      "id": 725,
+      "text": "What is abstract art?",
+      "reference_answer": "Abstract art uses shapes and colors to represent ideas rather than realistic scenes.",
+      "category": "Art"
+    },
+    {
+      "id": 726,
+      "text": "What is resurrection?",
+      "reference_answer": "Resurrection refers to Jesus rising from the dead according to Christian belief.",
+      "category": "Religion"
+    },
+    {
+      "id": 727,
+      "text": "What is golf?",
+      "reference_answer": "Golf is a sport where players hit a ball into holes using clubs.",
+      "category": "Sports"
+    },
+    {
+      "id": 728,
+      "text": "What is the judiciary?",
+      "reference_answer": "The judiciary interprets laws and administers justice.",
+      "category": "Civics"
+    },
+    {
+      "id": 729,
+      "text": "What is the nervous system?",
+      "reference_answer": "The nervous system controls body functions through nerves and the brain.",
+      "category": "Biology"
+    },
+    {
+      "id": 730,
+      "text": "What is ink art?",
+      "reference_answer": "Ink art uses liquid inks for drawing and painting.",
+      "category": "Art"
+    },
+    {
+      "id": 731,
+      "text": "What is the Vedas?",
+      "reference_answer": "The Vedas are ancient sacred texts of Hinduism.",
+      "category": "Religion"
+    },
+    {
+      "id": 732,
+      "text": "What is hockey?",
+      "reference_answer": "Hockey is a sport played with sticks used to hit a puck or ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 733,
+      "text": "What is identity?",
+      "reference_answer": "Identity refers to characteristics that define a person or group.",
+      "category": "Social Science"
+    },
+    {
+      "id": 734,
+      "text": "What is 35 × 12?",
+      "reference_answer": "35 × 12 = 420.",
+      "category": "Math"
+    },
+    {
+      "id": 735,
+      "text": "What is sculpture modeling?",
+      "reference_answer": "Sculpture modeling shapes soft materials like clay to make art.",
+      "category": "Art"
+    },
+    {
+      "id": 736,
+      "text": "What is sin in religion?",
+      "reference_answer": "Sin refers to actions considered morally wrong in a religion.",
+      "category": "Religion"
+    },
+    {
+      "id": 737,
+      "text": "What is sprint relay?",
+      "reference_answer": "A sprint relay is a track event where runners pass a baton after a short sprint.",
+      "category": "Sports"
+    },
+    {
+      "id": 738,
+      "text": "What is parliament?",
+      "reference_answer": "Parliament is the legislative body that makes laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 739,
+      "text": "What is respiration?",
+      "reference_answer": "Respiration is the process by which cells release energy from food.",
+      "category": "Biology"
+    },
+    {
+      "id": 740,
+      "text": "What is modern art?",
+      "reference_answer": "Modern art refers to artistic works from the late 19th to mid-20th century.",
+      "category": "Art"
+    },
+    {
+      "id": 741,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the foundational text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 742,
+      "text": "What is boxing?",
+      "reference_answer": "Boxing is a combat sport involving punches between two fighters.",
+      "category": "Sports"
+    },
+    {
+      "id": 743,
+      "text": "What is culture shock?",
+      "reference_answer": "Culture shock is the confusion felt when encountering a different culture.",
+      "category": "Social Science"
+    },
+    {
+      "id": 744,
+      "text": "What is 75 ÷ 3?",
+      "reference_answer": "75 ÷ 3 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 745,
+      "text": "What is cartooning?",
+      "reference_answer": "Cartooning is drawing humorous or expressive illustrations.",
+      "category": "Art"
+    },
+    {
+      "id": 746,
+      "text": "What is enlightenment in Buddhism?",
+      "reference_answer": "Enlightenment is achieving understanding that frees one from suffering.",
+      "category": "Religion"
+    },
+    {
+      "id": 747,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played on various surfaces with singles or doubles.",
+      "category": "Sports"
+    },
+    {
+      "id": 748,
+      "text": "What is federalism?",
+      "reference_answer": "Federalism divides power between national and regional governments.",
+      "category": "Civics"
+    },
+    {
+      "id": 749,
+      "text": "What is the digestive system?",
+      "reference_answer": "The digestive system processes food and absorbs nutrients.",
+      "category": "Biology"
+    },
+    {
+      "id": 750,
+      "text": "What is line art?",
+      "reference_answer": "Line art uses distinct straight or curved lines to create images.",
+      "category": "Art"
+    },
+    {
+      "id": 751,
+      "text": "What is a temple?",
+      "reference_answer": "A temple is a place of worship in several religions like Hinduism.",
+      "category": "Religion"
+    },
+    {
+      "id": 752,
+      "text": "What is wrestling?",
+      "reference_answer": "Wrestling is a combat sport involving grappling.",
+      "category": "Sports"
+    },
+    {
+      "id": 753,
+      "text": "What is urbanization?",
+      "reference_answer": "Urbanization is the growth of cities due to population movement.",
+      "category": "Social Science"
+    },
+    {
+      "id": 754,
+      "text": "What is 28 × 14?",
+      "reference_answer": "28 × 14 = 392.",
+      "category": "Math"
+    },
+    {
+      "id": 755,
+      "text": "What is watercolor art?",
+      "reference_answer": "Watercolor art uses pigments diluted in water to create translucent paintings.",
+      "category": "Art"
+    },
+    {
+      "id": 756,
+      "text": "What is spiritual growth?",
+      "reference_answer": "Spiritual growth is developing inner peace, wisdom, and connection with the divine.",
+      "category": "Religion"
+    },
+    {
+      "id": 757,
+      "text": "What is football?",
+      "reference_answer": "Football is a sport where players attempt to score goals using a ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 758,
+      "text": "What is human dignity?",
+      "reference_answer": "Human dignity is the respect owed to every individual by virtue of being human.",
+      "category": "Civics"
+    },
+    {
+      "id": 759,
+      "text": "What is a cell?",
+      "reference_answer": "A cell is the basic unit of life.",
+      "category": "Biology"
+    },
+    {
+      "id": 760,
+      "text": "What is pastel drawing?",
+      "reference_answer": "Pastel drawing uses soft chalk-like sticks to produce colorful art.",
+      "category": "Art"
+    },
+    {
+      "id": 761,
+      "text": "What is baptism?",
+      "reference_answer": "Baptism is a Christian ceremony symbolizing purification and admission to the faith.",
+      "category": "Religion"
+    },
+    {
+      "id": 762,
+      "text": "What is a relay race?",
+      "reference_answer": "A relay race involves teams where each runner completes a segment before passing a baton.",
+      "category": "Sports"
+    },
+    {
+      "id": 763,
+      "text": "What is community?",
+      "reference_answer": "A community is a group of people living or interacting together.",
+      "category": "Social Science"
+    },
+    {
+      "id": 764,
+      "text": "What is 16 × 37?",
+      "reference_answer": "16 × 37 = 592.",
+      "category": "Math"
+    },
+    {
+      "id": 765,
+      "text": "What is mural painting?",
+      "reference_answer": "Mural painting is creating artwork directly on walls or ceilings.",
+      "category": "Art"
+    },
+    {
+      "id": 766,
+      "text": "What is a prayer?",
+      "reference_answer": "A prayer is a form of communication with a deity.",
+      "category": "Religion"
+    },
+    {
+      "id": 767,
+      "text": "What is badminton?",
+      "reference_answer": "Badminton is a sport where players hit a shuttlecock with rackets.",
+      "category": "Sports"
+    },
+    {
+      "id": 768,
+      "text": "What is public opinion?",
+      "reference_answer": "Public opinion represents the collective views of people on issues.",
+      "category": "Civics"
+    },
+    {
+      "id": 769,
+      "text": "What is diffusion?",
+      "reference_answer": "Diffusion is the movement of molecules from high to low concentration.",
+      "category": "Biology"
+    },
+    {
+      "id": 770,
+      "text": "What is digital painting?",
+      "reference_answer": "Digital painting uses digital tools to create artwork on electronic devices.",
+      "category": "Art"
+    },
+    {
+      "id": 771,
+      "text": "What is the concept of Nirvana?",
+      "reference_answer": "Nirvana is the Buddhist state of liberation from suffering.",
+      "category": "Religion"
+    },
+    {
+      "id": 772,
+      "text": "What is kabaddi?",
+      "reference_answer": "Kabaddi is a contact team sport originating in India.",
+      "category": "Sports"
+    },
+    {
+      "id": 773,
+      "text": "What is gender equality?",
+      "reference_answer": "Gender equality ensures equal rights and opportunities for all genders.",
+      "category": "Social Science"
+    },
+    {
+      "id": 774,
+      "text": "What is 81 ÷ 9?",
+      "reference_answer": "81 ÷ 9 = 9.",
+      "category": "Math"
+    },
+    {
+      "id": 775,
+      "text": "What is printmaking?",
+      "reference_answer": "Printmaking is the art of creating images by transferring ink from a surface to paper.",
+      "category": "Art"
+    },
+    {
+      "id": 776,
+      "text": "What is the Holy Spirit?",
+      "reference_answer": "In Christianity, the Holy Spirit is the divine presence guiding believers.",
+      "category": "Religion"
+    },
+    {
+      "id": 777,
+      "text": "What is javelin throw?",
+      "reference_answer": "Javelin throw is an athletics event where participants throw a spear-like implement.",
+      "category": "Sports"
+    },
+    {
+      "id": 778,
+      "text": "What is taxation?",
+      "reference_answer": "Taxation is the system where governments collect money from citizens to fund services.",
+      "category": "Civics"
+    },
+    {
+      "id": 779,
+      "text": "What is the circulatory system?",
+      "reference_answer": "The circulatory system transports blood, nutrients, and oxygen throughout the body.",
+      "category": "Biology"
+    },
+    {
+      "id": 780,
+      "text": "What is stencil art?",
+      "reference_answer": "Stencil art involves creating designs by applying paint over cut-out templates.",
+      "category": "Art"
+    },
+    {
+      "id": 781,
+      "text": "What is Torah reading?",
+      "reference_answer": "Torah reading is the Jewish practice of reciting the Torah during services.",
+      "category": "Religion"
+    },
+    {
+      "id": 782,
+      "text": "What is rowing?",
+      "reference_answer": "Rowing is a water sport where athletes propel boats using oars.",
+      "category": "Sports"
+    },
+    {
+      "id": 783,
+      "text": "What is discrimination?",
+      "reference_answer": "Discrimination is unfair treatment based on characteristics like race or gender.",
+      "category": "Social Science"
+    },
+    {
+      "id": 784,
+      "text": "What is 64 × 11?",
+      "reference_answer": "64 × 11 = 704.",
+      "category": "Math"
+    },
+    {
+      "id": 785,
+      "text": "What is pottery?",
+      "reference_answer": "Pottery is the art of making objects from clay and heating them.",
+      "category": "Art"
+    },
+    {
+      "id": 786,
+      "text": "What is divine worship?",
+      "reference_answer": "Divine worship is a ceremony expressing reverence and devotion to a deity.",
+      "category": "Religion"
+    },
+    {
+      "id": 787,
+      "text": "What is surfing?",
+      "reference_answer": "Surfing is a sport where participants ride waves on a surfboard.",
+      "category": "Sports"
+    },
+    {
+      "id": 788,
+      "text": "What is governance?",
+      "reference_answer": "Governance refers to the systems and processes used to manage a country or organization.",
+      "category": "Civics"
+    },
+    {
+      "id": 789,
+      "text": "What is osmosis?",
+      "reference_answer": "Osmosis is the movement of water across a semi-permeable membrane.",
+      "category": "Biology"
+    },
+    {
+      "id": 790,
+      "text": "What is charcoal drawing?",
+      "reference_answer": "Charcoal drawing uses charred sticks to create bold and expressive artwork.",
+      "category": "Art"
+    },
+    {
+      "id": 791,
+      "text": "What is meditation in Hinduism?",
+      "reference_answer": "Meditation in Hinduism focuses on concentration and spiritual awareness.",
+      "category": "Religion"
+    },
+    {
+      "id": 792,
+      "text": "What is motor racing?",
+      "reference_answer": "Motor racing is a sport where drivers compete with high-speed vehicles.",
+      "category": "Sports"
+    },
+    {
+      "id": 793,
+      "text": "What is equality?",
+      "reference_answer": "Equality means treating all individuals fairly and without discrimination.",
+      "category": "Civics"
+    },
+    {
+      "id": 794,
+      "text": "What is 72 ÷ 9?",
+      "reference_answer": "72 ÷ 9 = 8.",
+      "category": "Math"
+    },
+    {
+      "id": 795,
+      "text": "What is sketching?",
+      "reference_answer": "Sketching is quickly drawing basic outlines and shapes.",
+      "category": "Art"
+    },
+    {
+      "id": 796,
+      "text": "What is a synagogue?",
+      "reference_answer": "A synagogue is a Jewish house of worship.",
+      "category": "Religion"
+    },
+    {
+      "id": 797,
+      "text": "What is squash?",
+      "reference_answer": "Squash is an indoor sport played with a ball and rackets in a closed court.",
+      "category": "Sports"
+    },
+    {
+      "id": 798,
+      "text": "What is rule of law?",
+      "reference_answer": "Rule of law means all people are equally subject to the law.",
+      "category": "Civics"
+    },
+    {
+      "id": 799,
+      "text": "What is the endocrine system?",
+      "reference_answer": "The endocrine system produces hormones that regulate body functions.",
+      "category": "Biology"
+    },
+    {
+      "id": 800,
+      "text": "What is acrylic art?",
+      "reference_answer": "Acrylic art uses fast-drying paints made from acrylic resin.",
+      "category": "Art"
+    },
+    {
+      "id": 801,
+      "text": "What is the capital of Norway?",
+      "reference_answer": "The capital of Norway is Oslo.",
+      "category": "Geography"
+    },
+    {
+      "id": 802,
+      "text": "What is atheism?",
+      "reference_answer": "Atheism is the belief that there is no god or divine being.",
+      "category": "Religion"
+    },
+    {
+      "id": 803,
+      "text": "What is a free kick in football?",
+      "reference_answer": "A free kick is a kick awarded after a foul, allowing play to restart without opposition.",
+      "category": "Sports"
+    },
+    {
+      "id": 804,
+      "text": "What is an autobiography?",
+      "reference_answer": "An autobiography is a book written by a person about their own life.",
+      "category": "Literature"
+    },
+    {
+      "id": 805,
+      "text": "What is 54 × 17?",
+      "reference_answer": "54 × 17 = 918.",
+      "category": "Math"
+    },
+    {
+      "id": 806,
+      "text": "What is condensation?",
+      "reference_answer": "Condensation is the process where gas changes to liquid.",
+      "category": "Science"
+    },
+    {
+      "id": 807,
+      "text": "What is the Rosary?",
+      "reference_answer": "The Rosary is a string of prayer beads used in Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 808,
+      "text": "What is volleyball?",
+      "reference_answer": "Volleyball is a sport where two teams hit a ball over a net.",
+      "category": "Sports"
+    },
+    {
+      "id": 809,
+      "text": "What is the constitution?",
+      "reference_answer": "The constitution is a document that outlines the fundamental laws of a country.",
+      "category": "Civics"
+    },
+    {
+      "id": 810,
+      "text": "What is pottery?",
+      "reference_answer": "Pottery is the art of shaping clay into objects which are fired in a kiln.",
+      "category": "Art"
+    },
+    {
+      "id": 811,
+      "text": "What is forgiveness in religion?",
+      "reference_answer": "Forgiveness is the act of pardoning someone for wrongdoing.",
+      "category": "Religion"
+    },
+    {
+      "id": 812,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played on a rectangular court.",
+      "category": "Sports"
+    },
+    {
+      "id": 813,
+      "text": "What is economics?",
+      "reference_answer": "Economics is the study of how societies use resources and distribute goods.",
+      "category": "Social Science"
+    },
+    {
+      "id": 814,
+      "text": "What is 205 ÷ 5?",
+      "reference_answer": "205 ÷ 5 = 41.",
+      "category": "Math"
+    },
+    {
+      "id": 815,
+      "text": "What is sketching?",
+      "reference_answer": "Sketching is making quick drawings to capture the basic form of an object.",
+      "category": "Art"
+    },
+    {
+      "id": 816,
+      "text": "What is the Sabbath?",
+      "reference_answer": "The Sabbath is a weekly day of rest and worship in Judaism and Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 817,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a bat-and-ball game played between two teams of nine players.",
+      "category": "Sports"
+    },
+    {
+      "id": 818,
+      "text": "What is a civil right?",
+      "reference_answer": "A civil right is a freedom protected by law.",
+      "category": "Civics"
+    },
+    {
+      "id": 819,
+      "text": "What is a molecule?",
+      "reference_answer": "A molecule is a group of atoms bonded together.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 820,
+      "text": "What is realism?",
+      "reference_answer": "Realism is an art style that depicts subjects as they appear in real life.",
+      "category": "Art"
+    },
+    {
+      "id": 821,
+      "text": "What is pilgrimage?",
+      "reference_answer": "Pilgrimage is a religious journey to a sacred place.",
+      "category": "Religion"
+    },
+    {
+      "id": 822,
+      "text": "What is sprinting?",
+      "reference_answer": "Sprinting is high-speed running over short distances.",
+      "category": "Sports"
+    },
+    {
+      "id": 823,
+      "text": "What is multiculturalism?",
+      "reference_answer": "Multiculturalism is the coexistence of diverse cultures in a society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 824,
+      "text": "What is 300 × 6?",
+      "reference_answer": "300 × 6 = 1800.",
+      "category": "Math"
+    },
+    {
+      "id": 825,
+      "text": "What is charcoal art?",
+      "reference_answer": "Charcoal art uses charred sticks to create dark, expressive drawings.",
+      "category": "Art"
+    },
+    {
+      "id": 826,
+      "text": "What is reincarnation?",
+      "reference_answer": "Reincarnation is the belief that the soul returns in a new body after death.",
+      "category": "Religion"
+    },
+    {
+      "id": 827,
+      "text": "What is javelin throw?",
+      "reference_answer": "Javelin throw is an athletics event where competitors throw a spear-like object.",
+      "category": "Sports"
+    },
+    {
+      "id": 828,
+      "text": "What is a parliament?",
+      "reference_answer": "A parliament is a legislative body that makes laws for a nation.",
+      "category": "Civics"
+    },
+    {
+      "id": 829,
+      "text": "What is a cell membrane?",
+      "reference_answer": "The cell membrane is a thin layer that controls movement of substances in and out of a cell.",
+      "category": "Biology"
+    },
+    {
+      "id": 830,
+      "text": "What is origami?",
+      "reference_answer": "Origami is the Japanese art of paper folding.",
+      "category": "Art"
+    },
+    {
+      "id": 831,
+      "text": "What is Holy Communion?",
+      "reference_answer": "Holy Communion is a Christian ritual symbolizing the Last Supper.",
+      "category": "Religion"
+    },
+    {
+      "id": 832,
+      "text": "What is gymnastics?",
+      "reference_answer": "Gymnastics is a sport involving balance, strength, and agility.",
+      "category": "Sports"
+    },
+    {
+      "id": 833,
+      "text": "What is population density?",
+      "reference_answer": "Population density measures the number of people per unit area.",
+      "category": "Social Science"
+    },
+    {
+      "id": 834,
+      "text": "What is 625 ÷ 25?",
+      "reference_answer": "625 ÷ 25 = 25.",
+      "category": "Math"
+    },
+    {
+      "id": 835,
+      "text": "What is mural art?",
+      "reference_answer": "Mural art involves painting directly on walls or ceilings.",
+      "category": "Art"
+    },
+    {
+      "id": 836,
+      "text": "What is Ramadan?",
+      "reference_answer": "Ramadan is a month of fasting and prayer observed by Muslims.",
+      "category": "Religion"
+    },
+    {
+      "id": 837,
+      "text": "What is cycling?",
+      "reference_answer": "Cycling is the sport or activity of riding a bicycle.",
+      "category": "Sports"
+    },
+    {
+      "id": 838,
+      "text": "What is public administration?",
+      "reference_answer": "Public administration involves managing government operations and policies.",
+      "category": "Civics"
+    },
+    {
+      "id": 839,
+      "text": "What is the respiratory system?",
+      "reference_answer": "The respiratory system helps the body take in oxygen and release carbon dioxide.",
+      "category": "Biology"
+    },
+    {
+      "id": 840,
+      "text": "What is sculpture carving?",
+      "reference_answer": "Sculpture carving involves cutting away material to create forms.",
+      "category": "Art"
+    },
+    {
+      "id": 841,
+      "text": "What is confession in religion?",
+      "reference_answer": "Confession is admitting sins or wrongdoings in a religious context.",
+      "category": "Religion"
+    },
+    {
+      "id": 842,
+      "text": "What is wrestling?",
+      "reference_answer": "Wrestling is a grappling sport involving holds and pins.",
+      "category": "Sports"
+    },
+    {
+      "id": 843,
+      "text": "What is colonization?",
+      "reference_answer": "Colonization is the act of settling and controlling foreign lands.",
+      "category": "Social Science"
+    },
+    {
+      "id": 844,
+      "text": "What is 47 + 128?",
+      "reference_answer": "47 + 128 = 175.",
+      "category": "Math"
+    },
+    {
+      "id": 845,
+      "text": "What is contemporary art?",
+      "reference_answer": "Contemporary art refers to art created in recent times, often reflecting modern issues.",
+      "category": "Art"
+    },
+    {
+      "id": 846,
+      "text": "What is the Holy Spirit?",
+      "reference_answer": "In Christianity, the Holy Spirit is considered the divine presence and guide.",
+      "category": "Religion"
+    },
+    {
+      "id": 847,
+      "text": "What is rowing?",
+      "reference_answer": "Rowing is a sport where participants propel boats using oars.",
+      "category": "Sports"
+    },
+    {
+      "id": 848,
+      "text": "What is a referendum?",
+      "reference_answer": "A referendum is a direct vote by citizens on a specific issue.",
+      "category": "Civics"
+    },
+    {
+      "id": 849,
+      "text": "What is the skeletal system?",
+      "reference_answer": "The skeletal system provides structure and support to the body.",
+      "category": "Biology"
+    },
+    {
+      "id": 850,
+      "text": "What is spray painting?",
+      "reference_answer": "Spray painting uses aerosol paint to create artworks or coatings.",
+      "category": "Art"
+    },
+    {
+      "id": 851,
+      "text": "What is a holy scripture?",
+      "reference_answer": "A holy scripture is a sacred text in a religious tradition.",
+      "category": "Religion"
+    },
+    {
+      "id": 852,
+      "text": "What is handball?",
+      "reference_answer": "Handball is a sport where players use their hands to throw a ball into the opponent’s goal.",
+      "category": "Sports"
+    },
+    {
+      "id": 853,
+      "text": "What is rural development?",
+      "reference_answer": "Rural development involves improving the economy and quality of life in rural areas.",
+      "category": "Social Science"
+    },
+    {
+      "id": 854,
+      "text": "What is 480 ÷ 6?",
+      "reference_answer": "480 ÷ 6 = 80.",
+      "category": "Math"
+    },
+    {
+      "id": 855,
+      "text": "What is classical sculpture?",
+      "reference_answer": "Classical sculpture is artwork from ancient Greece and Rome known for realism.",
+      "category": "Art"
+    },
+    {
+      "id": 856,
+      "text": "What is Torah?",
+      "reference_answer": "The Torah is the central and most important Jewish scripture.",
+      "category": "Religion"
+    },
+    {
+      "id": 857,
+      "text": "What is basketball dribbling?",
+      "reference_answer": "Dribbling is bouncing the ball continuously while moving in basketball.",
+      "category": "Sports"
+    },
+    {
+      "id": 858,
+      "text": "What is governance?",
+      "reference_answer": "Governance refers to rules and processes through which organizations or countries are controlled.",
+      "category": "Civics"
+    },
+    {
+      "id": 859,
+      "text": "What is mitosis?",
+      "reference_answer": "Mitosis is cell division resulting in two identical daughter cells.",
+      "category": "Biology"
+    },
+    {
+      "id": 860,
+      "text": "What is digital illustration?",
+      "reference_answer": "Digital illustration uses software tools to create artwork.",
+      "category": "Art"
+    },
+    {
+      "id": 861,
+      "text": "What is salvation?",
+      "reference_answer": "Salvation refers to being saved from sin or its consequences in religion.",
+      "category": "Religion"
+    },
+    {
+      "id": 862,
+      "text": "What is archery?",
+      "reference_answer": "Archery involves shooting arrows with a bow at a target.",
+      "category": "Sports"
+    },
+    {
+      "id": 863,
+      "text": "What is social conflict?",
+      "reference_answer": "Social conflict is a struggle between groups over resources or values.",
+      "category": "Social Science"
+    },
+    {
+      "id": 864,
+      "text": "What is 19 × 23?",
+      "reference_answer": "19 × 23 = 437.",
+      "category": "Math"
+    },
+    {
+      "id": 865,
+      "text": "What is cubism?",
+      "reference_answer": "Cubism is an art movement using geometric shapes to depict forms.",
+      "category": "Art"
+    },
+    {
+      "id": 866,
+      "text": "What is the Trinity?",
+      "reference_answer": "The Trinity represents God as Father, Son, and Holy Spirit in Christianity.",
+      "category": "Religion"
+    },
+    {
+      "id": 867,
+      "text": "What is swimming?",
+      "reference_answer": "Swimming is moving through water using arms and legs.",
+      "category": "Sports"
+    },
+    {
+      "id": 868,
+      "text": "What is the legislature?",
+      "reference_answer": "The legislature is the branch of government responsible for making laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 869,
+      "text": "What is adaptation?",
+      "reference_answer": "Adaptation is when organisms develop traits that help them survive.",
+      "category": "Biology"
+    },
+    {
+      "id": 870,
+      "text": "What is impressionism?",
+      "reference_answer": "Impressionism is an art style emphasizing light, color, and everyday moments.",
+      "category": "Art"
+    },
+    {
+      "id": 871,
+      "text": "What is a mantra?",
+      "reference_answer": "A mantra is a sacred phrase repeated during meditation.",
+      "category": "Religion"
+    },
+    {
+      "id": 872,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a fast sport where players hit a lightweight ball across a table using paddles.",
+      "category": "Sports"
+    },
+    {
+      "id": 873,
+      "text": "What is discrimination?",
+      "reference_answer": "Discrimination is treating people unfairly based on traits like race or gender.",
+      "category": "Social Science"
+    },
+    {
+      "id": 874,
+      "text": "What is 12% of 350?",
+      "reference_answer": "12% of 350 = 42.",
+      "category": "Math"
+    },
+    {
+      "id": 875,
+      "text": "What is oil painting?",
+      "reference_answer": "Oil painting uses pigments mixed with oil on canvas.",
+      "category": "Art"
+    },
+    {
+      "id": 876,
+      "text": "What is Buddhism?",
+      "reference_answer": "Buddhism is a religion focused on ending suffering through mindfulness.",
+      "category": "Religion"
+    },
+    {
+      "id": 877,
+      "text": "What is football?",
+      "reference_answer": "Football is a team sport where players try to score goals using a ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 878,
+      "text": "What is the rule of law?",
+      "reference_answer": "The rule of law means everyone must follow the law equally.",
+      "category": "Civics"
+    },
+    {
+      "id": 879,
+      "text": "What is chemical change?",
+      "reference_answer": "A chemical change forms new substances with different properties.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 880,
+      "text": "What is doodle art?",
+      "reference_answer": "Doodle art involves spontaneous drawings made freely without planning.",
+      "category": "Art"
+    },
+    {
+      "id": 881,
+      "text": "What is monasticism?",
+      "reference_answer": "Monasticism is a lifestyle of devotion involving simplicity and religious discipline.",
+      "category": "Religion"
+    },
+    {
+      "id": 882,
+      "text": "What is fencing?",
+      "reference_answer": "Fencing is a sport of sword fighting using foil, epee, or sabre.",
+      "category": "Sports"
+    },
+    {
+      "id": 883,
+      "text": "What is social inequality?",
+      "reference_answer": "Social inequality is the uneven distribution of opportunities and resources.",
+      "category": "Social Science"
+    },
+    {
+      "id": 884,
+      "text": "What is 510 - 275?",
+      "reference_answer": "510 - 275 = 235.",
+      "category": "Math"
+    },
+    {
+      "id": 885,
+      "text": "What is sculpture modeling?",
+      "reference_answer": "Sculpture modeling shapes soft materials like clay to create three-dimensional art.",
+      "category": "Art"
+    },
+    {
+      "id": 886,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christians.",
+      "category": "Religion"
+    },
+    {
+      "id": 887,
+      "text": "What is rugby?",
+      "reference_answer": "Rugby is a contact sport played with an oval-shaped ball.",
+      "category": "Sports"
+    },
+    {
+      "id": 888,
+      "text": "What is a democracy?",
+      "reference_answer": "Democracy is a system where leaders are elected by citizens.",
+      "category": "Civics"
+    },
+    {
+      "id": 889,
+      "text": "What is a virus?",
+      "reference_answer": "A virus is a microscopic infectious agent that replicates inside living organisms.",
+      "category": "Biology"
+    },
+    {
+      "id": 890,
+      "text": "What is pop art?",
+      "reference_answer": "Pop art uses imagery from popular culture and mass media.",
+      "category": "Art"
+    },
+    {
+      "id": 891,
+      "text": "What is salvation in Christianity?",
+      "reference_answer": "Salvation in Christianity refers to deliverance from sin through Jesus Christ.",
+      "category": "Religion"
+    },
+    {
+      "id": 892,
+      "text": "What is marathon running?",
+      "reference_answer": "Marathon running is a long-distance race of 42.195 kilometers.",
+      "category": "Sports"
+    },
+    {
+      "id": 893,
+      "text": "What is cultural evolution?",
+      "reference_answer": "Cultural evolution is how cultures change over time.",
+      "category": "Social Science"
+    },
+    {
+      "id": 894,
+      "text": "What is 14 × 44?",
+      "reference_answer": "14 × 44 = 616.",
+      "category": "Math"
+    },
+    {
+      "id": 895,
+      "text": "What is glass painting?",
+      "reference_answer": "Glass painting involves creating artwork on transparent glass surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 896,
+      "text": "What is Islam?",
+      "reference_answer": "Islam is a monotheistic religion founded on the teachings of Prophet Muhammad (PBUH).",
+      "category": "Religion"
+    },
+    {
+      "id": 897,
+      "text": "What is Formula 1?",
+      "reference_answer": "Formula 1 is the highest level of international auto racing.",
+      "category": "Sports"
+    },
+    {
+      "id": 898,
+      "text": "What is judicial review?",
+      "reference_answer": "Judicial review is the power of courts to decide if laws are constitutional.",
+      "category": "Civics"
+    },
+    {
+      "id": 899,
+      "text": "What is an ecosystem?",
+      "reference_answer": "An ecosystem is a community of organisms interacting with their environment.",
+      "category": "Environment"
+    },
+    {
+      "id": 900,
+      "text": "What is acrylic painting?",
+      "reference_answer": "Acrylic painting uses fast-drying acrylic-based pigments.",
+      "category": "Art"
+    },
+    {
+      "id": 901,
+      "text": "What is the capital of Sweden?",
+      "reference_answer": "The capital of Sweden is Stockholm.",
+      "category": "Geography"
+    },
+    {
+      "id": 902,
+      "text": "What is the meaning of 'Amen'?",
+      "reference_answer": "'Amen' is a religious affirmation meaning 'so be it' or 'truly'.",
+      "category": "Religion"
+    },
+    {
+      "id": 903,
+      "text": "What is a red card in football?",
+      "reference_answer": "A red card is shown to a player who is sent off the field for a serious offense.",
+      "category": "Sports"
+    },
+    {
+      "id": 904,
+      "text": "What is an epic?",
+      "reference_answer": "An epic is a long narrative poem about heroic deeds.",
+      "category": "Literature"
+    },
+    {
+      "id": 905,
+      "text": "What is 87 × 9?",
+      "reference_answer": "87 × 9 = 783.",
+      "category": "Math"
+    },
+    {
+      "id": 906,
+      "text": "What is melting?",
+      "reference_answer": "Melting is the process where solid turns into liquid.",
+      "category": "Science"
+    },
+    {
+      "id": 907,
+      "text": "What is the Kaaba?",
+      "reference_answer": "The Kaaba is a sacred Islamic structure located in Mecca.",
+      "category": "Religion"
+    },
+    {
+      "id": 908,
+      "text": "What is badminton?",
+      "reference_answer": "Badminton is a racket sport where players hit a shuttlecock over a net.",
+      "category": "Sports"
+    },
+    {
+      "id": 909,
+      "text": "What is a constitution?",
+      "reference_answer": "A constitution is a set of fundamental laws governing a nation.",
+      "category": "Civics"
+    },
+    {
+      "id": 910,
+      "text": "What is digital art?",
+      "reference_answer": "Digital art is artwork created using digital tools and software.",
+      "category": "Art"
+    },
+    {
+      "id": 911,
+      "text": "What is prayer?",
+      "reference_answer": "Prayer is communication with a deity in many religions.",
+      "category": "Religion"
+    },
+    {
+      "id": 912,
+      "text": "What is weightlifting?",
+      "reference_answer": "Weightlifting is a sport where athletes lift heavy barbells.",
+      "category": "Sports"
+    },
+    {
+      "id": 913,
+      "text": "What is globalization?",
+      "reference_answer": "Globalization is the increasing interconnectedness of countries.",
+      "category": "Social Science"
+    },
+    {
+      "id": 914,
+      "text": "What is 410 ÷ 10?",
+      "reference_answer": "410 ÷ 10 = 41.",
+      "category": "Math"
+    },
+    {
+      "id": 915,
+      "text": "What is still life art?",
+      "reference_answer": "Still life art depicts objects arranged in a composition.",
+      "category": "Art"
+    },
+    {
+      "id": 916,
+      "text": "What is the Quran?",
+      "reference_answer": "The Quran is the holy scripture of Islam.",
+      "category": "Religion"
+    },
+    {
+      "id": 917,
+      "text": "What is baseball pitching?",
+      "reference_answer": "Baseball pitching involves throwing the ball toward the batter.",
+      "category": "Sports"
+    },
+    {
+      "id": 918,
+      "text": "What is universal adult franchise?",
+      "reference_answer": "Universal adult franchise means all adults have the right to vote.",
+      "category": "Civics"
+    },
+    {
+      "id": 919,
+      "text": "What is a star?",
+      "reference_answer": "A star is a luminous ball of gas undergoing nuclear fusion.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 920,
+      "text": "What is modern art?",
+      "reference_answer": "Modern art includes works created between the 1860s and 1970s.",
+      "category": "Art"
+    },
+    {
+      "id": 921,
+      "text": "What is the Torah?",
+      "reference_answer": "The Torah is the foundational text of Judaism.",
+      "category": "Religion"
+    },
+    {
+      "id": 922,
+      "text": "What is skating?",
+      "reference_answer": "Skating is moving on surfaces using skates or rollerblades.",
+      "category": "Sports"
+    },
+    {
+      "id": 923,
+      "text": "What is a tribe?",
+      "reference_answer": "A tribe is a social group with shared culture and ancestry.",
+      "category": "Social Science"
+    },
+    {
+      "id": 924,
+      "text": "What is 56 × 4?",
+      "reference_answer": "56 × 4 = 224.",
+      "category": "Math"
+    },
+    {
+      "id": 925,
+      "text": "What is sculpture?",
+      "reference_answer": "Sculpture involves creating three-dimensional artwork.",
+      "category": "Art"
+    },
+    {
+      "id": 926,
+      "text": "What is Hinduism?",
+      "reference_answer": "Hinduism is one of the world's oldest religions originating in India.",
+      "category": "Religion"
+    },
+    {
+      "id": 927,
+      "text": "What is table tennis?",
+      "reference_answer": "Table tennis is a fast-paced sport played across a small table with paddles.",
+      "category": "Sports"
+    },
+    {
+      "id": 928,
+      "text": "What is the executive branch?",
+      "reference_answer": "The executive branch enforces laws and oversees government administration.",
+      "category": "Civics"
+    },
+    {
+      "id": 929,
+      "text": "What is a galaxy?",
+      "reference_answer": "A galaxy is a large collection of stars, dust, and gas held together by gravity.",
+      "category": "Astronomy"
+    },
+    {
+      "id": 930,
+      "text": "What is watercolor painting?",
+      "reference_answer": "Watercolor painting uses pigments suspended in a water-based solution.",
+      "category": "Art"
+    },
+    {
+      "id": 931,
+      "text": "What is karma?",
+      "reference_answer": "Karma is the belief that actions influence future outcomes.",
+      "category": "Religion"
+    },
+    {
+      "id": 932,
+      "text": "What is boxing?",
+      "reference_answer": "Boxing is a combat sport involving punches between two opponents.",
+      "category": "Sports"
+    },
+    {
+      "id": 933,
+      "text": "What is ethnicity?",
+      "reference_answer": "Ethnicity refers to shared cultural, linguistic, or ancestral traits.",
+      "category": "Social Science"
+    },
+    {
+      "id": 934,
+      "text": "What is 92 ÷ 4?",
+      "reference_answer": "92 ÷ 4 = 23.",
+      "category": "Math"
+    },
+    {
+      "id": 935,
+      "text": "What is oil pastel drawing?",
+      "reference_answer": "Oil pastel drawing uses wax-based sticks filled with pigments.",
+      "category": "Art"
+    },
+    {
+      "id": 936,
+      "text": "What is the Bible?",
+      "reference_answer": "The Bible is the holy scripture of Christians.",
+      "category": "Religion"
+    },
+    {
+      "id": 937,
+      "text": "What is sprint relay?",
+      "reference_answer": "A sprint relay involves runners passing a baton over short distances.",
+      "category": "Sports"
+    },
+    {
+      "id": 938,
+      "text": "What is public opinion?",
+      "reference_answer": "Public opinion reflects the common views of people on an issue.",
+      "category": "Civics"
+    },
+    {
+      "id": 939,
+      "text": "What is the ozone layer?",
+      "reference_answer": "The ozone layer protects Earth from harmful ultraviolet radiation.",
+      "category": "Environment"
+    },
+    {
+      "id": 940,
+      "text": "What is pointillism?",
+      "reference_answer": "Pointillism is an art technique using small dots to create images.",
+      "category": "Art"
+    },
+    {
+      "id": 941,
+      "text": "What is the Dead Sea Scrolls?",
+      "reference_answer": "The Dead Sea Scrolls are ancient Jewish manuscripts discovered near the Dead Sea.",
+      "category": "Religion"
+    },
+    {
+      "id": 942,
+      "text": "What is kayaking?",
+      "reference_answer": "Kayaking is a water sport using a paddle and narrow boat called a kayak.",
+      "category": "Sports"
+    },
+    {
+      "id": 943,
+      "text": "What is caste?",
+      "reference_answer": "Caste is a social stratification system found in some societies.",
+      "category": "Social Science"
+    },
+    {
+      "id": 944,
+      "text": "What is 18 × 34?",
+      "reference_answer": "18 × 34 = 612.",
+      "category": "Math"
+    },
+    {
+      "id": 945,
+      "text": "What is collage art?",
+      "reference_answer": "Collage art involves assembling different materials to form images.",
+      "category": "Art"
+    },
+    {
+      "id": 946,
+      "text": "What is Lent?",
+      "reference_answer": "Lent is a Christian period of fasting and reflection before Easter.",
+      "category": "Religion"
+    },
+    {
+      "id": 947,
+      "text": "What is golf?",
+      "reference_answer": "Golf is a sport where players hit balls into holes using clubs.",
+      "category": "Sports"
+    },
+    {
+      "id": 948,
+      "text": "What is diplomacy?",
+      "reference_answer": "Diplomacy is the practice of managing relations between countries.",
+      "category": "Civics"
+    },
+    {
+      "id": 949,
+      "text": "What is chemical energy?",
+      "reference_answer": "Chemical energy is stored in bonds of chemical substances.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 950,
+      "text": "What is sketch art?",
+      "reference_answer": "Sketch art is quick, freehand drawing capturing basic forms.",
+      "category": "Art"
+    },
+    {
+      "id": 951,
+      "text": "What is monotheism?",
+      "reference_answer": "Monotheism is the belief in one God.",
+      "category": "Religion"
+    },
+    {
+      "id": 952,
+      "text": "What is motorsport?",
+      "reference_answer": "Motorsport includes competitive racing using cars or bikes.",
+      "category": "Sports"
+    },
+    {
+      "id": 953,
+      "text": "What is social justice?",
+      "reference_answer": "Social justice promotes fairness and equal rights in society.",
+      "category": "Social Science"
+    },
+    {
+      "id": 954,
+      "text": "What is 22% of 400?",
+      "reference_answer": "22% of 400 = 88.",
+      "category": "Math"
+    },
+    {
+      "id": 955,
+      "text": "What is calligraphy?",
+      "reference_answer": "Calligraphy is the art of decorative handwriting.",
+      "category": "Art"
+    },
+    {
+      "id": 956,
+      "text": "What is the Bhagavad Gita?",
+      "reference_answer": "The Bhagavad Gita is a Hindu scripture with philosophical teachings.",
+      "category": "Religion"
+    },
+    {
+      "id": 957,
+      "text": "What is long jump?",
+      "reference_answer": "Long jump is a track event where athletes jump forward as far as they can.",
+      "category": "Sports"
+    },
+    {
+      "id": 958,
+      "text": "What is judiciary?",
+      "reference_answer": "The judiciary interprets the law and ensures justice.",
+      "category": "Civics"
+    },
+    {
+      "id": 959,
+      "text": "What is a neuron?",
+      "reference_answer": "A neuron is a nerve cell that transmits signals.",
+      "category": "Biology"
+    },
+    {
+      "id": 960,
+      "text": "What is digital sketching?",
+      "reference_answer": "Digital sketching uses software tools to create freehand drawings.",
+      "category": "Art"
+    },
+    {
+      "id": 961,
+      "text": "What is divine revelation?",
+      "reference_answer": "Divine revelation refers to knowledge revealed by a deity.",
+      "category": "Religion"
+    },
+    {
+      "id": 962,
+      "text": "What is sprinting?",
+      "reference_answer": "Sprinting is high-speed running over short distances.",
+      "category": "Sports"
+    },
+    {
+      "id": 963,
+      "text": "What is rural migration?",
+      "reference_answer": "Rural migration is the movement of people from rural to urban areas.",
+      "category": "Social Science"
+    },
+    {
+      "id": 964,
+      "text": "What is 72 × 15?",
+      "reference_answer": "72 × 15 = 1080.",
+      "category": "Math"
+    },
+    {
+      "id": 965,
+      "text": "What is abstract art?",
+      "reference_answer": "Abstract art uses shapes and colors to represent ideas.",
+      "category": "Art"
+    },
+    {
+      "id": 966,
+      "text": "What is Judaism?",
+      "reference_answer": "Judaism is an ancient monotheistic religion practiced by Jewish people.",
+      "category": "Religion"
+    },
+    {
+      "id": 967,
+      "text": "What is cricket?",
+      "reference_answer": "Cricket is a bat-and-ball sport played between two teams.",
+      "category": "Sports"
+    },
+    {
+      "id": 968,
+      "text": "What is human rights?",
+      "reference_answer": "Human rights are fundamental freedoms entitled to every person.",
+      "category": "Civics"
+    },
+    {
+      "id": 969,
+      "text": "What is DNA?",
+      "reference_answer": "DNA carries genetic information in living organisms.",
+      "category": "Biology"
+    },
+    {
+      "id": 970,
+      "text": "What is folk art?",
+      "reference_answer": "Folk art is traditional artwork created by communities using local materials.",
+      "category": "Art"
+    },
+    {
+      "id": 971,
+      "text": "What is enlightenment in Buddhism?",
+      "reference_answer": "Enlightenment is understanding that frees one from suffering.",
+      "category": "Religion"
+    },
+    {
+      "id": 972,
+      "text": "What is wrestling?",
+      "reference_answer": "Wrestling is a combat sport involving grappling.",
+      "category": "Sports"
+    },
+    {
+      "id": 973,
+      "text": "What is social mobility?",
+      "reference_answer": "Social mobility is the movement of individuals between social classes.",
+      "category": "Social Science"
+    },
+    {
+      "id": 974,
+      "text": "What is 155 ÷ 5?",
+      "reference_answer": "155 ÷ 5 = 31.",
+      "category": "Math"
+    },
+    {
+      "id": 975,
+      "text": "What is stencil art?",
+      "reference_answer": "Stencil art uses cut-out templates to apply designs onto surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 976,
+      "text": "What is Sikhism?",
+      "reference_answer": "Sikhism is a monotheistic religion founded by Guru Nanak.",
+      "category": "Religion"
+    },
+    {
+      "id": 977,
+      "text": "What is volleyball?",
+      "reference_answer": "Volleyball is a sport where teams hit a ball over a net.",
+      "category": "Sports"
+    },
+    {
+      "id": 978,
+      "text": "What is the legislature?",
+      "reference_answer": "The legislature makes and passes laws.",
+      "category": "Civics"
+    },
+    {
+      "id": 979,
+      "text": "What is an atom?",
+      "reference_answer": "An atom is the smallest unit of matter.",
+      "category": "Chemistry"
+    },
+    {
+      "id": 980,
+      "text": "What is manga art?",
+      "reference_answer": "Manga art is a Japanese style of comics and graphic storytelling.",
+      "category": "Art"
+    },
+    {
+      "id": 981,
+      "text": "What is meditation?",
+      "reference_answer": "Meditation is a mental practice of focus and mindfulness.",
+      "category": "Religion"
+    },
+    {
+      "id": 982,
+      "text": "What is baseball?",
+      "reference_answer": "Baseball is a bat-and-ball sport played between two teams.",
+      "category": "Sports"
+    },
+    {
+      "id": 983,
+      "text": "What is industrialization?",
+      "reference_answer": "Industrialization is the shift from manual labor to machine-based production.",
+      "category": "Social Science"
+    },
+    {
+      "id": 984,
+      "text": "What is 9³?",
+      "reference_answer": "9³ = 729.",
+      "category": "Math"
+    },
+    {
+      "id": 985,
+      "text": "What is mural art?",
+      "reference_answer": "Mural art involves painting on walls or large surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 986,
+      "text": "What is Zakat?",
+      "reference_answer": "Zakat is an Islamic charity obligation for Muslims.",
+      "category": "Religion"
+    },
+    {
+      "id": 987,
+      "text": "What is tennis?",
+      "reference_answer": "Tennis is a racket sport played on a court.",
+      "category": "Sports"
+    },
+    {
+      "id": 988,
+      "text": "What is a republic?",
+      "reference_answer": "A republic is a system of government where leaders are elected by citizens.",
+      "category": "Civics"
+    },
+    {
+      "id": 989,
+      "text": "What is fossil fuel?",
+      "reference_answer": "Fossil fuels are energy sources like coal and oil formed from ancient remains.",
+      "category": "Environment"
+    },
+    {
+      "id": 990,
+      "text": "What is 3D art?",
+      "reference_answer": "3D art creates three-dimensional representations of objects.",
+      "category": "Art"
+    },
+    {
+      "id": 991,
+      "text": "What is a shrine?",
+      "reference_answer": "A shrine is a sacred place dedicated to a deity or saint.",
+      "category": "Religion"
+    },
+    {
+      "id": 992,
+      "text": "What is martial arts?",
+      "reference_answer": "Martial arts are combat-based practices involving physical defense techniques.",
+      "category": "Sports"
+    },
+    {
+      "id": 993,
+      "text": "What is a civilization?",
+      "reference_answer": "A civilization is an advanced society with culture, government, and technology.",
+      "category": "Social Science"
+    },
+    {
+      "id": 994,
+      "text": "What is 2000 ÷ 25?",
+      "reference_answer": "2000 ÷ 25 = 80.",
+      "category": "Math"
+    },
+    {
+      "id": 995,
+      "text": "What is graffiti?",
+      "reference_answer": "Graffiti is art created by painting on public surfaces.",
+      "category": "Art"
+    },
+    {
+      "id": 996,
+      "text": "What is a prophet?",
+      "reference_answer": "A prophet is a religious messenger who conveys divine guidance.",
+      "category": "Religion"
+    },
+    {
+      "id": 997,
+      "text": "What is cricket bowling?",
+      "reference_answer": "Bowling in cricket means delivering the ball toward the batsman.",
+      "category": "Sports"
+    },
+    {
+      "id": 998,
+      "text": "What is a monarchy?",
+      "reference_answer": "A monarchy is a government ruled by a king or queen.",
+      "category": "Civics"
+    },
+    {
+      "id": 999,
+      "text": "What is evaporation?",
+      "reference_answer": "Evaporation is the process where liquid turns into vapor.",
+      "category": "Science"
+    },
+    {
+      "id": 1000,
+      "text": "What is sculpture modeling?",
+      "reference_answer": "Sculpture modeling shapes soft materials like clay to create forms.",
+      "category": "Art"
+    }
+  ]

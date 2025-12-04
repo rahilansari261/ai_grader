@@ -13,6 +13,5 @@ class Question(Base):
     embedding = Column(Vector(1536), nullable=True)
 
     # Relationships
-    rubrics = relationship("Rubric", back_populates="question", cascade="all, delete-orphan")
     answers = relationship("Answer", back_populates="question", cascade="all, delete-orphan")
 
