@@ -33,7 +33,8 @@ async def submit_answer(
             detail="Question not found",
         )
 
-    if not question.embedding:
+    # Check if embedding exists (use is None instead of truthiness check for arrays)
+    if question.embedding is None:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail="Question reference answer embedding not found",
@@ -47,7 +48,7 @@ async def submit_answer(
 
     # Calculate cosine similarity
     # Convert embedding to list if needed (pgvector returns list-like object)
-    ref_embedding_list = list(question.embedding) if question.embedding else []
+    ref_embedding_list = list(question.embedding) if question.embedding is not None else []
     if not ref_embedding_list:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,

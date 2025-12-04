@@ -9,6 +9,7 @@ class EvaluationResult(BaseModel):
     accuracy: int
     final_score: int
     feedback: str
+    isCorrect: bool
 
 
 class AnswerCreate(BaseModel):

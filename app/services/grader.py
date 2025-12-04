@@ -43,7 +43,8 @@ async def grade_answer(
             "structure": 5,
             "accuracy": 0,
             "final_score": 5,
-            "feedback": "Answer is unrelated."
+            "feedback": "Answer is unrelated.",
+            "isCorrect": False
         }
     
     # Calculate confidence score for prompt
@@ -80,8 +81,15 @@ Return a JSON object ONLY:
   "structure": number,
   "accuracy": number,
   "final_score": number,
-  "feedback": "string"
-}}"""
+  "feedback": "string",
+  "isCorrect": boolean
+}}
+
+IMPORTANT: The "isCorrect" field must be included and should reflect whether the answer is factually/conceptually correct based on your evaluation, regardless of the final_score. For example:
+- If the answer is numerically or factually correct but lacks explanation/format, set isCorrect: true
+- If the answer is wrong or unrelated, set isCorrect: false
+- Base isCorrect on the correctness of the answer itself, not on the scoring criteria like structure or completeness
+"""
 
     # Call OpenAI GPT-4
     response = await client.chat.completions.create(
@@ -115,7 +123,8 @@ Return a JSON object ONLY:
             "structure": 0,
             "accuracy": 0,
             "final_score": 0,
-            "feedback": "Error parsing LLM response."
+            "feedback": "Error parsing LLM response.",
+            "isCorrect": False
         }
     
     # Case 2: Apply penalty for moderate similarity
@@ -138,6 +147,16 @@ Return a JSON object ONLY:
     for key in ["understanding", "key_points", "structure", "accuracy", "final_score"]:
         if key in result:
             result[key] = int(result[key])
+    
+    # Ensure isCorrect is a boolean - LLM must generate it based on its evaluation
+    # If LLM didn't provide it, we need to re-request or use a default
+    if "isCorrect" not in result:
+        # If LLM didn't provide isCorrect, raise an error or set a default
+        # This should not happen if prompt is clear, but we'll set False as safe default
+        result["isCorrect"] = False
+    else:
+        # Ensure it's a boolean (LLM might return it as string "true"/"false" or boolean)
+        result["isCorrect"] = bool(result["isCorrect"])
     
     return result
 
