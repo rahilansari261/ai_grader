@@ -83,26 +83,6 @@ async def submit_answer(
     return answer
 
 
-@router.get("/{answer_id}", response_model=AnswerResponse)
-async def get_answer(
-    answer_id: int,
-    db: AsyncSession = Depends(get_db)
-):
-    """Get an answer with its evaluation"""
-    result = await db.execute(
-        select(Answer).where(Answer.id == answer_id)
-    )
-    answer = result.scalar_one_or_none()
-    
-    if not answer:
-        raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND,
-            detail="Answer not found"
-        )
-    
-    return answer
-
-
 @router.get("/question/{question_id}", response_model=List[AnswerResponse])
 async def list_answers_for_question(
     question_id: int,
