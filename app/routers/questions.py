@@ -4,9 +4,7 @@ from sqlalchemy import select
 from typing import List
 from app.db import get_db
 from app.models.question import Question
-from app.models.rubric import Rubric
-from app.schemas.question_schemas import QuestionCreate, QuestionResponse, QuestionWithRubric
-from app.schemas.rubric_schemas import RubricResponse
+from app.schemas.question_schemas import QuestionCreate, QuestionResponse
 from app.services.embeddings import generate_embedding
 
 router = APIRouter(prefix="/questions", tags=["questions"])
@@ -43,12 +41,12 @@ async def list_questions(db: AsyncSession = Depends(get_db)):
     return questions
 
 
-@router.get("/{question_id}", response_model=QuestionWithRubric)
+@router.get("/{question_id}", response_model=QuestionResponse)
 async def get_question(
     question_id: int,
     db: AsyncSession = Depends(get_db)
 ):
-    """Get question with its rubrics"""
+    """Get question by ID"""
     result = await db.execute(
         select(Question).where(Question.id == question_id)
     )
@@ -60,18 +58,7 @@ async def get_question(
             detail="Question not found"
         )
     
-    # Get rubrics
-    rubrics_result = await db.execute(
-        select(Rubric).where(Rubric.question_id == question_id)
-    )
-    rubrics = rubrics_result.scalars().all()
-    
-    return QuestionWithRubric(
-        id=question.id,
-        text=question.text,
-        reference_answer=question.reference_answer,
-        rubrics=[RubricResponse.model_validate(r) for r in rubrics]
-    )
+    return question
 
 
 @router.put("/{question_id}", response_model=QuestionResponse)
