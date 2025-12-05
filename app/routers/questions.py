@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select, func
+from sqlalchemy import select
 from typing import List
 from app.db import get_db
 from app.models.question import Question
@@ -16,19 +16,14 @@ async def create_question(
     db: AsyncSession = Depends(get_db)
 ):
     """Create a new question and generate embedding for reference answer"""
-    # Get next question number
-    result = await db.execute(select(func.max(Question.question_number)))
-    max_number = result.scalar()
-    next_question_number = (max_number or 0) + 1
-    
     # Generate embedding for reference answer
     embedding = await generate_embedding(question_data.reference_answer)
     
     # Create question
     question = Question(
-        question_number=next_question_number,
         text=question_data.text,
         reference_answer=question_data.reference_answer,
+        category=question_data.category,
         embedding=embedding
     )
     
@@ -91,6 +86,7 @@ async def update_question(
     # Update fields
     question.text = question_data.text
     question.reference_answer = question_data.reference_answer
+    question.category = question_data.category
     
     # Regenerate embedding if reference answer changed
     if old_reference_answer != question_data.reference_answer:

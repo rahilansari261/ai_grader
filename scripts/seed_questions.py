@@ -9,19 +9,12 @@ from pathlib import Path
 # Add parent directory to path to import app modules
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from sqlalchemy import select, func
+from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.db import AsyncSessionLocal, init_db
 from app.models.question import Question
 from app.services.embeddings import generate_embedding
-
-
-async def get_next_question_number(db: AsyncSession) -> int:
-    """Get the next question number by finding the max and adding 1"""
-    result = await db.execute(select(func.max(Question.question_number)))
-    max_number = result.scalar()
-    return (max_number or 0) + 1
 
 
 async def question_exists(db: AsyncSession, text: str) -> bool:
@@ -47,7 +40,6 @@ async def seed_questions():
     print(f"Loaded {len(questions_data)} questions from seed.json")
     
     async with AsyncSessionLocal() as db:
-        next_question_number = await get_next_question_number(db)
         created_count = 0
         skipped_count = 0
         error_count = 0
@@ -66,16 +58,15 @@ async def seed_questions():
                 
                 # Create question
                 question = Question(
-                    question_number=next_question_number,
                     text=q_data["text"],
                     reference_answer=q_data["reference_answer"],
+                    category=q_data.get("category", "General"),
                     embedding=embedding
                 )
                 
                 db.add(question)
                 await db.commit()
                 
-                next_question_number += 1
                 created_count += 1
                 
                 # Progress update every 50 questions

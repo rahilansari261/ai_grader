@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, Text, ForeignKey, Float, JSON
+from sqlalchemy import Column, Integer, Text, ForeignKey, Float, JSON, Boolean
 from sqlalchemy.orm import relationship
 from pgvector.sqlalchemy import Vector
 from app.db import Base
@@ -14,6 +14,7 @@ class Answer(Base):
     similarity = Column(Float, nullable=True)
     final_score = Column(Float, nullable=True)
     evaluation = Column(JSON, nullable=True)
+    isCorrect = Column(Boolean, nullable=True)
 
     # Relationships
     question = relationship("Question", back_populates="answers")
